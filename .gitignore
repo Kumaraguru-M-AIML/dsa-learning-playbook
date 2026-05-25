@@ -1,0 +1,80 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# Antigravity / IDE
+
+.idea/
+.vscode/
+*.swp
+.agent/
+.claude-plugin/
+.codex/
+.codex-plugin/
+.context/
+.obsidian/
+.cursor/
+
+# Databases and runtime state
+*.db
+*.sqlite
+*.jsonl
+
+# Large Binaries and archives
+*.docx
+*.pdf
+*.pptx
+*.xlsx
+*.zip
+*.rar
+*.tar.gz
+*.7z
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+
+# Project specific
+logs/
+data/
+.opencode/
+artifacts/
+scratch/
+research_repos/
+skills/
+_Archives/
+**/Career_Mastery_Hub/
+

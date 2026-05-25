@@ -1,0 +1,589 @@
+# AI Master Syllabus & Folder Index
+
+**Target Folder:** `E:\wk 6 - Aptitude\TCS NQT DOC resrc`
+> *This file acts as a lightweight index for the AI to understand folder contents without burning tokens.*
+
+## File: `5_6102705527509224719.pdf`
+- **Pages:** 6
+- **Preview:** *Telegram: @PLACEMENTLELO     TCS NQT Detailed Syllabus 2024  TCS NQT Syllabus for 2024 batch is the following given below -  •  Foundation Section  o  Verbal Ability  o  Reasoning Ability  o  Numerical Ability  •  Advance Section  o  Advanced Quantitative Ability  o  Advanced Reasoning Ability  o  Advanced Coding Ability    Exam Pattern...*
+
+### Table of Contents
+- Page 1: TCS NQT Detailed Syllabus 2024
+  - Page 2: • Number System
+  - Page 2: • Mensuration
+  - Page 2: • Arithmetic Ability
+  - Page 2: • Elementary Statistics
+  - Page 2: • Data Interpretation
+  - Page 2: • Simplifications & Approximations
+  - Page 3: • Identifying Word
+  - Page 3: • Numeric Patterns
+  - Page 3: • Problem Solving
+  - Page 3: • Figural and Factual Analysis
+  - Page 3: • Decision Making
+  - Page 3: • Propositional Reasoning
+  - Page 3: • Visual/Spatial Reasoning
+  - Page 3: • English Grammar
+  - Page 4: • Reading Comprehension
+  - Page 5: Tips and Insights for TCS NQT (Based on 2023 Batch Students' Experiences):
+
+---
+
+## File: `Numerical Ability by Placement Lelo.pdf`
+- **Pages:** 408
+- **Preview:** *Telegram: @PLACEMENTLELO     TCS NQT - Numerical Ability  This PDF includes:  • HCF And LCM  • Number System  • Number Decimals & Fractions  • Divisibility  • Ages  • Speed Time And Distance  • Work And Time  • Averages  • Allegations And Mixtures  • Ratio And Proportions  • Simple & Compound Interest  • Percentages  • Profit & Loss  • AP GP HP  • Probability  • Permutation & Combination  • Geometry  • Perimeter Area And Volume  • Coordinate Geometry  • Linear Equations  • Clocks And Calendars...*
+
+### Table of Contents
+- Page 2: LCM and HCF Formulas
+  - Page 2: Basic Formulas of LCM and HCF with Definition
+  - Page 2: LCM and HCF Formulas
+- Page 6: How To Solve LCM and HCF Questions Quickly
+  - Page 6: Solve HCF and LCM Problems Quickly
+- Page 14: HCF and LCM Shortcut, tricks, and tips
+  - Page 14: HCF and LCM tricks, shortcuts, and tips
+- Page 20: Number System Formulas
+  - Page 21: Formulas of Number System:
+  - Page 21: Types of Number System:
+  - Page 23: Formulas for finding the Squares of a number.
+- Page 25: How To Solve Number System Questions Quickly
+  - Page 25: How to solve number system easily
+- Page 31: Number System Tips, Tricks and Shortcuts
+  - Page 31: Shortcuts and tricks for Number Systema basic section and one of the main sections in the aptitude.
+  - Page 31: Number System Tips and Tricks
+- Page 36: Numbers Decimal And Fraction Formulas
+  - Page 36: Formulas and Concepts for Numbers, Decimal And Fraction
+- Page 43: How To Solve Numbers, Decimal And Fractions Questions Quickly
+  - Page 43: Solving Numbers, Decimal and Fractions Quickly
+- Page 47: Numbers, Decimals And Fractions Tips, Tricks And Shortcuts
+  - Page 47: Shortcuts for Number, Decimals, and Fractions
+  - Page 48: Tips and Tricks for Decimal and Fraction
+- Page 54: Formulas for Divisibility
+  - Page 54: Formulas for Divisibility in Aptitude
+  - Page 54: Formulas of Divisibility
+- Page 58: How To Solve Divisibility Questions Quickly
+  - Page 58: How to Solve Divisibility Questions
+- Page 64: Divisibility Tips, Tricks and Shortcuts
+  - Page 64: Tips and Tricks for Divisibility
+- Page 72: Formulas For Ages
+  - Page 72: Formulas For Problem on Ages
+  - Page 72: Important Formulas on Ages
+  - Page 72: Important  Concepts on Problems on Ages
+- Page 77: How To Solve Problem on Ages Questions Quickly
+  - Page 77: How To Solve Ages Questions Quickly
+  - Page 78: Important Formulas to Know about Ages
+- Page 78: Problem On Ages Tips, Tricks And Shortcuts
+  - Page 78: Tips and Tricks to solve Problem on Ages
+  - Page 79: Important Formulas to Solve Ages Question
+  - Page 79: Tricks to Solve Ages Question
+  - Page 79: Type 1:
+  - Page 80: Type 2:
+  - Page 81: Type 3:
+- Page 83: Speed Time and Distance Formulas
+  - Page 83: Basic Formulas  of Speed, Distance and Time with Definition
+  - Page 83: Formulas of Train for Speed, Distance and Time
+  - Page 84: Question and Answers on Speed Distance and Time
+- Page 87: How to Solve Speed Distance and Time Questions Quickly
+  - Page 87: Solve Speed, Distance and Time Question Quickly
+  - Page 88: Basic Formulas
+- Page 88: Speed Distance and Time Shortcut and Tricks
+  - Page 88: Shortcuts for Speed Time and Distance
+- Page 91: Formulas For Time and Work
+  - Page 91: Time and Work  Formulas
+  - Page 91: Formula's For Time and Work
+  - Page 92: Rules for Time and Work
+  - Page 94: Questions based on above formulas:
+- Page 96: How To Solve Time and Work Problems Quickly
+  - Page 96: How to Solve Time and Work Problems Quickly
+  - Page 96: Types of problem that can be asked in placement exam related to time and work
+- Page 104: Tips And Tricks And Shortcut For Work And Time
+  - Page 104: Tricks and Shortcuts of Time and Work.
+- Page 108: Averages Formulas
+  - Page 108: Averages Formulas Used In Aptitude
+  - Page 108: In this Page Averages Formulas are given which is useful to solve many problems
+- Page 113: How To Solve Averages Questions Quickly
+  - Page 113: How To Solve Averages Questions Quickly
+- Page 120: Tips And Tricks And Shortcuts for Averages
+  - Page 120: Tips, Tricks and Shortcuts for Averages in Aptitude
+- Page 125: Alligations and Mixture Formulas
+  - Page 125: Formulas For Alligation And Mixture
+- Page 130: How To Solve Alligation And Mixtures Questions Quickly
+  - Page 130: How to solve Alligation and Mixtures Questions Quickly
+- Page 135: Tips And Tricks And Shortcuts For Alligation And Mixtures
+  - Page 136: Tips And Tricks For Alligation And Mixtures
+- Page 139: Formulas for Ratio and Proportions
+  - Page 139: Basic Formulas of Ratio and Proportion
+- Page 144: How To Solve Ratio And Proportion Questions Quickly
+  - Page 144: Solve Ratio and Proportion Questions Quickly
+- Page 151: Tips And Tricks and Shortcuts on Ratio And Proportion
+  - Page 151: Ratio and Proportion Tips and Tricks and Shortcuts
+- Page 155: Formulas for Simple Interest And Compound Interest
+  - Page 155: Formulas To Find Averages In Aptitude
+- Page 160: How To Solve Compound And Simple Interest Problems Quickly
+  - Page 160: How To solve Compound Interest And Simple Interest Problems Quickly
+  - Page 164: Tips , Tricks And Shortcuts on Compound Interest  and Simple Interest
+- Page 164: Formulas for Simple Interest Problems
+  - Page 165: Formulas to Solve Simple interest Problems in Aptitude
+- Page 169: How To Solve Quickly Simple Interest Questions
+  - Page 169: How to Solve Simple Interest Questions Quickly in Aptitude
+- Page 177: Tips And Tricks And Shortcuts For Simple Interest Problems
+  - Page 177: Tips, Tricks & Shortcuts To Solve Simple Interest in Aptitude
+- Page 182: Compound Interest Formulas
+  - Page 182: Compound Interest Formulas in Aptitude
+- Page 188: How To Solve Compound Interest Questions Quickly
+  - Page 188: Solve Compound Interest Problems Quickly
+- Page 200: Tips Tricks And Shortcuts Of Compound Interest
+  - Page 200: Compound Interest Tips Tricks And Shortcuts
+- Page 205: Percentages Formulas
+  - Page 205: Percentages Formulas and Application
+- Page 211: How To Solve Percentage Questions Quickly
+  - Page 211: How to solve Percentages Problems Quickly
+- Page 216: Tips And Tricks And Shortcuts of Percentage
+  - Page 216: Tips ,Tricks and Shortcuts of Percentages
+- Page 222: Formulas For Profit And Loss
+  - Page 222: Formulas for Profit and Loss Questions
+- Page 228: How To Solve Profit And Loss Question Quickly
+  - Page 228: How to solve Profit and Loss Questions Quickly
+- Page 238: Tips and Tricks and Shortcuts for Profit and Loss
+  - Page 238: Tips,Tricks and Shortcuts for Profit and Loss
+- Page 244: Arithmetic, Geometric And Harmonic Progressions Formulas
+  - Page 244: Basic Formulas for AP, GP and HP with definition
+- Page 250: How To Solve Arthmetic, Geometric and Harmonic Progression Quickly
+  - Page 250: Solve AP, GP and HP Questions Quickly
+  - Page 250: Quick methods to solve AP, GP and HP
+  - Page 251: Type 1: AP questions
+  - Page 253: Type 2: GP questions
+  - Page 255: Type 3: HP questions
+- Page 257: AP, GP and HP Shortcut, tricks, and tips
+  - Page 258: AP, GP and HP tricks, shortcuts, and tips
+  - Page 259: Type 1: AP questions
+  - Page 260: Type 2: GP question
+  - Page 262: Type 3: HP questions
+- Page 263: Probability Formulas
+  - Page 263: Formulas For Probability
+- Page 268: How To Solve Probability Questions Quickly
+  - Page 268: How to Solve Probability Questions Quickly
+- Page 276: Tips And Tricks And Shortcuts For Probability Questions
+  - Page 276: Tips and Tricks and Shortcuts for Probability
+- Page 280: Permutation and Combination Formulas
+  - Page 280: Permutation and Combination Formulas
+  - Page 280: Permutation and Combination Formulas
+  - Page 282: Important Properties:
+- Page 283: How To Solve Quickly Permutation Combination
+  - Page 283: How to Solve Permutation and Combination Questions Quickly
+  - Page 284: Basic concept of Permutation and Combination
+- Page 291: Tips And Tricks And Shortcuts For Permutation And Combination
+  - Page 291: Tips and Tricks, and Shortcuts for Permutation and Combination
+  - Page 292: Types of Tips and Tricks and Shortcuts for Permutation and Combination
+  - Page 292: Questions on Types of Tips and Tricks and Shortcuts for Permutation and Combination
+- Page 294: Geometry Formulas
+  - Page 294: Geometry Basic Formulas – Area, Volume and Perimeter
+  - Page 297: Some Examples Using above Formulas:
+- Page 299: How To Solve Geometry Questions Quickly
+  - Page 299: How To Solve Practical Geometry Problems
+  - Page 299: Steps to Analyze and Solve Problems Quickly.
+- Page 303: Tips Tricks And Shortcuts For Geometry
+  - Page 303: Geometry Tips and Tricks and Shortcuts
+- Page 306: Formulas For Perimeter Area Volume
+  - Page 306: Perimeter, Area and Volume formulas
+  - Page 310: Some Examples Based On Above Formulas
+- Page 311: Tips And Tricks And Shortcuts on Perimeter Area Volume Questions
+  - Page 311: Tips, Tricks and Shortcuts on Perimeter Area and Volume
+- Page 315: Formulas for Coordinate Geometry
+  - Page 315: Coordinate Geometry Formulas
+  - Page 317: Some Examples Using Above Formulas:
+- Page 319: How To Solve Coordinate Geometry Quickly
+  - Page 319: Ways to solve Coordinate Geometry Problems Quickly
+- Page 328: Tips Tricks And Shortcuts on Coordinate Geometry
+  - Page 328: Shortcuts, Tips and Tricks for the Questions of Coordinate Geometry
+- Page 331: Formulas for Linear Equation Problems
+  - Page 331: Introduction to Formulas of Linear Equations
+- Page 339: How To Solve Linear Equation Questions Quickly
+  - Page 339: Tips for solving Linear Equations Quickly
+- Page 346: Tips And Tricks And Shortcuts on Linear Equation Problems
+  - Page 346: Tips And Tricks And Shortcuts On Linear Equations
+- Page 352: Formulas for Linear Equation Problems
+  - Page 352: Introduction to Formulas of Linear Equations
+- Page 359: How To Solve Linear Equation Questions Quickly
+  - Page 359: Tips for solving Linear Equations Quickly
+- Page 367: Tips And Tricks And Shortcuts on Linear Equation Problems
+  - Page 367: Tips And Tricks And Shortcuts On Linear Equations
+- Page 373: Statistics -  Mean, Median, Mode, Variance, and Standard Deviation
+- Page 376: Pie Chart Formulas
+  - Page 376: Formulas of Pie Chart In Data Interpretation
+  - Page 376: Pie Chart Formulas in DI
+  - Page 376: Uses of Pie Chart In Data Interpretation
+  - Page 377: Pie Chart Formula Based Questions
+- Page 380: How to solve Pie Charts Quickly
+  - Page 380: How to solve Pie Charts Problems Quickly in DI
+  - Page 381: How To Solve Pie Chart Questions:
+  - Page 384: Expenditure Incurred by Mr. Sharma on Various Heads in 2001 & 2002
+- Page 386: Tips and Tricks and Shortcuts for Pie Charts
+  - Page 386: Pie Chart Tips and Tricks and Shortcuts
+  - Page 387: Pie Chart Tips, Tricks and Shortcuts :
+- Page 390: Bar Chart Formulas
+  - Page 390: Formulas for Bar Chart in DI
+  - Page 391: Formulas for Bar Chart
+  - Page 392: Bar Chart Formula Based Questions
+- Page 395: How to solve Bar Chart Quickly
+  - Page 396: Solve Bar Chart Quickly
+  - Page 396: How to solve Bar Chart Quickly
+  - Page 397: Questions and Answers to Solve for Bar Chart quickly
+- Page 400: Tips and Tricks and Shortcuts for Bar Chart Questions
+  - Page 400: Tips and Tricks for Bar Chart
+  - Page 401: Tips and Tricks for Bar chart :
+  - Page 402: Questions and Answers for Bar Chart
+- Page 405: Tips & Tricks to solve Tabular Chart Questions in DI
+  - Page 405: How to solve Table Chart Questions
+
+---
+
+## File: `Quantitative_Aptitude.pdf`
+- **Pages:** 932
+- **Preview:** *Contents SECTION–I : ARITHMETICAL ABILITY       1–883  1. Number System   3–50  2. H.C.F. and L.C.M. of Numbers  51–68  3. Decimal Fractions  69–94  4. Simplification  95–179  5. Square Roots and Cube Roots 180–205  6. Average  206–239  7. Problems on Numbers  240–263  8. Problems on Ages  264–277  9. Surds and Indices  278–296  10. Logarithms  297–307  11. Percentage  308–373  12. Profit and Loss  374–425  13. Ratio and Proportion  426–475  14. Partnership  476–492  15. Chain Rule  493–509  16....*
+
+### Table of Contents
+- Page 1: Cover
+- Page 1: Contents
+- Page 1: Section 01 Arithmetical Ability
+  - Page 2: 01 Number System
+  - Page 50: 02 H.C.F. and L.C.M. of Numbers
+  - Page 68: 03 Decimal Fractions
+  - Page 94: 04 Simplification
+  - Page 179: 05 Square Roots and Cube Root
+  - Page 205: 06 Average
+  - Page 239: 07 Problems on Numbers
+  - Page 263: 08 Problems on Ages
+  - Page 1: 09 Surds and Indices
+  - Page 277: 10 Logarithms
+  - Page 288: 11  Percentage
+  - Page 354: 12 Profit and Loss
+  - Page 406: 13 Ratio and Proportion
+  - Page 456: 14 Partnership
+  - Page 473: 15 Chain Rule
+  - Page 490: 16 Pipes and Cistems
+  - Page 506: 17 Time and Work
+  - Page 542: 18 Time & Distance
+  - Page 580: 19 Boats and Streams
+  - Page 592: 20 Problems on Trains
+  - Page 613: 21 Alligation or Mixture
+  - Page 621: 22 Simple Interest
+  - Page 643: 23 Compond Interest
+  - Page 668: 24 Area
+  - Page 746: 25 Volume and Surface Areas
+  - Page 794: 26 Races and Games of Skill
+  - Page 799: 27 Calendar
+  - Page 803: 28 Clocks
+  - Page -1: 29 Stock and Shares
+  - Page 821: 30 Permutation-Combination
+  - Page 830: 31 Probability
+  - Page 841: 32 True Discount
+  - Page 846: 33 Banker‘s Discount
+  - Page 850: 34 Heights and Distances
+  - Page 857: 35 Odd Man Out and Series
+- Page 865: Section 02 Data Interpretation
+  - Page 867: 36 Tabulation
+  - Page 885: 37 Bar Graphs
+  - Page 903: 38 Pie-chart
+  - Page 917: 39 Line Graphs
+
+---
+
+## File: `Reasoning Ability by Placement Lelo.pdf`
+- **Pages:** 181
+- **Preview:** *Telegram: @PLACEMENTLELO     TCS NQT - Reasoning Ability    This PDF includes:  • Word Pattern ( Logical Sequence Of Words )  • Letter Series ( Letter And Symbol Series )  • Number Series   • Seating Arrangements  • Coding and Decoding ( Coding Deductive Logic )  • Blood Relations   • Directional Sense  • Cube Folding ( Cube )  • Paper Cutting  • Visual Reasoning ( Statement and Conclusion )  • Syllogism ( Logical Venn Diagram Based DI )...*
+
+### Table of Contents
+- Page 2: Number Series Formula
+  - Page 2: Formulas for Number series
+- Page 6: How To Solve Number Series Question Quickly
+  - Page 6: How to Solve Number Systems Problems Quickly in Logical
+- Page 21: Tips And Tricks And Shortcuts For Number Series
+  - Page 21: Number series Tips and Tricks and Shortcuts
+  - Page 21: Number Series Tips, Tricks and Shortcuts :
+- Page 25: Formulas for Seating Arrangement
+  - Page 25: Seating Arrangement Formulas
+  - Page 25: Types of seating arrangements
+- Page 30: How To Solve Seating Arrangements Questions Quickly
+  - Page 30: How to solve Seating Arrangement Questions Quickly
+- Page 41: Tips And Tricks And Shortcuts To Solve Seating Arrangements
+  - Page 41: Tips and Tricks for Seating Arrangements
+- Page 47: Coding Deductive Logic Formulas
+  - Page 47: Formulas for Coding Deductive Logic
+  - Page 47: Coding Deductive Logic Formulas
+- Page 52: How To Solve Coding Deductive Logic Questions Quickly
+  - Page 52: How to Solve Coding Deductive Logic
+  - Page 52: How To Solve Coding Deductive Logic Questions:
+- Page 57: Tips And Tricks And Shortcuts To Solve Coding Deductive Logic
+  - Page 57: Coding Deductive Questions Tips and Tricks and Shortcuts
+  - Page 57: Coding Deductive Logic Tips, Tricks and Shortcuts
+- Page 61: Blood Relation Important Formulas
+  - Page 61: Blood Relation concept:-
+  - Page 62: Family Tree
+  - Page 62: Some Questions Based On Above Formulas:
+- Page 63: How To Solve Blood Relation Questions Quickly
+  - Page 63: How To Solve Blood Relation Questions Quickly:
+  - Page 69: Follow these symbols to avoid confusion.
+- Page 73: Tips And Tricks And Shortcuts For Blood Relation
+  - Page 73: Tips and Tricks and Shortcuts to Solve Blood Relation Questions Quickly
+  - Page 74: Tips and Tricks and Shortcuts for Blood Relations-  Puzzle based Problems
+  - Page 74: Blood Relations Tips and Tricks and Shortcuts- Conversation or statement based Problems
+  - Page 75: Tips and Tricks and Shortcuts- Code-based problems:
+- Page 77: Formulas For Directional Senses
+  - Page 77: Important Facts about Directional Sense
+  - Page 77: Concept of Pythagoras Theorem
+  - Page 78: Examples
+- Page 80: How To Solve Directional Senses Question Quickly
+  - Page 80: How to Solve Directional Sense Questions Quickly in Logical
+  - Page 83: How To Solve Directional Sense Questions Quickly
+  - Page 85: Solve Quickly Directional Sense Questions: Right Direction/ Position of Shadow
+- Page 86: Tips and Tricks and Shortcuts To Solve Directional Senses
+  - Page 86: Tips and Tricks for Directional Senses.
+- Page 90: Formulas For Cube
+  - Page 90: Formulas for Cube
+  - Page 90: Important Formulas for Cube
+  - Page 92: Example for Cube Formulas
+- Page 93: How To Solve Cube Quickly
+  - Page 93: How To Solve Cube Questions Quickly:-
+- Page 95: Tips and Tricks and Shortcuts To Solve Cube questions
+  - Page 95: Tips and Tricks and Shortcuts for Cube:-
+  - Page 95: Direction for Tips and Tricks and Shortcuts for Cubes
+  - Page 97: How to solve Paper Cutting Questions?
+  - Page 98: Paper Cutting: Non-Verbal Reasoning Questions and Answers
+- Page 101: Visual Reasoning Formulas
+  - Page 101: Visual Reasoning Formulas and Concept
+  - Page 102: Visual Reasoning Formulas :
+- Page 108: How To Solve Visual Reasoning Quickly
+  - Page 108: Solving Visual Reasoning Questions Quickly
+  - Page 109: How To Solve Visual Reasoning Questions- Completion of Incomplete Pattern
+- Page 111: Tips And Tricks And Shortcuts For Visual Reasoning
+  - Page 111: Visual Reasoning Tips and Tricks and Shortcuts
+  - Page 111: Tips and Tricks and Shortcuts for Visual Reasoning- Series Problems(NON-VERBAL)
+  - Page 112: Tips and Tricks for Visual Reasoning- Classification Problems
+  - Page 113: Visual Reasoning Tips and Tricks and Shortcuts- Mirror Images
+- Page 114: Formulas for Syllogism
+  - Page 114: Formulas for Syllogism and Definition
+  - Page 114: Syllogism Formulas To Solve Problems:
+  - Page 115: Formulas for Syllogism and Concept:
+- Page 119: How to Solve Syllogism Questions Quickly
+  - Page 119: Different Methods to Solve Syllogism Questions Quickly
+  - Page 119: How to Solve Syllogism Questions Quickly
+  - Page 122: Summary of Venn Diagram
+  - Page 122: How to Solve Syllogism Questions Quickly
+  - Page 126: How to Solve Syllogism Questions Quickly (Venn Diagram method)
+- Page 129: Tips Tricks And Shortcuts To Solve Syllogism Questions
+  - Page 129: Tips and Tricks to Solve Syllogism Problems
+  - Page 129: Shortcut, Tips and Tricks of Syllogism to remember
+  - Page 129: Type 1: All P is Q
+  - Page 130: Type 2: No P’s are Q’s
+  - Page 130: Type 3: Some P’s are Q’s
+  - Page 131: Shortcut, Tips and Tricks to Solve Syllogism using various methods:
+- Page 135: Formula For Data Sufficiency
+  - Page 135: Formula for Data Sufficiency and Definitions
+  - Page 135: Understanding Solution Selections:
+- Page 139: How to Solve Data Sufficiency Problems Quickly
+  - Page 139: Solve Data Sufficiency Questions
+- Page 147: Tips and Tricks and Shortcuts for Data Sufficiency
+  - Page 147: Tips and Tricks for Data Sufficiency
+- Page 149: Logical Sequence Of Words Formulas
+  - Page 150: Logical Sequence Of Words Formulas and definition
+- Page 155: How To Solve Logical Sequence Of Words Questions Quickly
+  - Page 155: How to solve Logical Sequence of Words
+  - Page 155: Concepts for How to solve Logical Sequence of words :
+- Page 160: Tips and Tricks and Shortcuts for Logical Sequence of Words
+  - Page 160: Shortcuts for Logical Sequence of Words
+  - Page 160: Tips, Tricks and Shortcuts for Logical Sequence of Words
+- Page 165: Formulas For Letter And Symbols Series
+  - Page 165: Formulas For Letter And Symbols Series:
+  - Page 166: Letter and Symbol series Formulas & Rules to Follow:
+- Page 169: How To Solve Letter And Symbol Series Quickly
+  - Page 170: How To Solve Letter and Symbols Series Questions Quickly
+  - Page 170: Types of Letter and Symbol Series
+- Page 176: Letter And Symbol Series Tips, Tricks And Shortcuts
+  - Page 176: Tips and Tricks to solve letter and symbol series problems
+  - Page 176: Letter and Symbol Series Tips, Tricks and Shortcuts
+
+---
+
+## File: `TCS NQT (Numerical Ability) Official Memory Based Paper 2020.pdf`
+- **Pages:** 8
+- **Preview:** *Join the Best Learning Experience! Download App TCS TCS NQT (Numerical Ability) Oxicial Memory Based Paper 2020 India’s #1 Test Series for TCS Mock tests with exam-like questions FREE TESTS INCLUDED TCS Test Series 5+ TOTAL TESTS Take Free Tests Available in English English FREE LIVE Daily Free Live Classes for Campus Placement Daily Free Live Classes for Campus Placement Attend Free Live Classes From the Top Educators...*
+
+### Table of Contents
+- Page -1: Template for PYP PDFs - Acrobat PDF - 1st page.pdf
+  - Page -1: Blank Page
+
+---
+
+## File: `TCS NQT (Reasoning Ability) Memory Based 2020.pdf`
+- **Pages:** 12
+- **Preview:** *Join the Best Learning Experience! Download App TCS TCS NQT (Reasoning Ability) Memory Based 2020 India’s #1 Test Series for TCS Mock tests with exam-like questions FREE TESTS INCLUDED TCS Test Series 5+ TOTAL TESTS Take Free Tests Available in English English FREE LIVE Daily Free Live Classes for Campus Placement Daily Free Live Classes for Campus Placement Attend Free Live Classes From the Top Educators...*
+
+### Table of Contents
+- Page -1: Template for PYP PDFs - Acrobat PDF - 1st page.pdf
+  - Page -1: Blank Page
+
+---
+
+## File: `TCS NQT (Verbal Ability) Memory-Based 2020.pdf`
+- **Pages:** 9
+- **Preview:** *Join the Best Learning Experience! Download App TCS TCS NQT (Verbal Ability) Memory-Based 2020 India’s #1 Test Series for TCS Mock tests with exam-like questions FREE TESTS INCLUDED TCS Test Series 5+ TOTAL TESTS Take Free Tests Available in English English FREE LIVE Daily Free Live Classes for Campus Placement Daily Free Live Classes for Campus Placement Attend Free Live Classes From the Top Educators...*
+
+### Table of Contents
+- Page -1: Template for PYP PDFs - Acrobat PDF - 1st page.pdf
+  - Page -1: Blank Page
+
+---
+
+## File: `tcs nqt2 .pdf`
+- **Pages:** 409
+- **Preview:** *TCS NOT  EXAM PREPRATION  BOOK  Contents  All Previous Year Question Paper with Solution  4 Previous Year Solved Papers  from TCS NQT Exam  Latest TCS National Qualifier Test Pattern 2025  Sections  Part A — Foundation Section  Duration (in minutes) Numerical Ability  25  Verbal Ability  25...*
+
+
+---
+
+## File: `TCS-NQT_NINJA_2019-2020.pdf`
+- **Pages:** 174
+- **Preview:** *TCS Ninja, Digital, NQT Questions - 1  1) The water from one outlet, flowing at a constant rate, can fill the swimming pool in 9 hours.  The water from second outlet, flowing at a constant rate can fill up the same pool in  approximately in 5 hours. If both the outlets are used at the same time, approximately what is the  number of hours required to fill the pool?  Ans: Assume tank capacity is 45 Liters.  Given that the first pipe fills the tank in 9 hours.  So its  capacity is 45 / 9 = 5 Liters...*
+
+
+---
+
+## File: `Verbal Ability by Placement Lelo.pdf`
+- **Pages:** 139
+- **Preview:** *Telegram: @PLACEMENTLELO  TCS NQT - Verbal Ability    This PDF includes:    • Word Completion / Sentence Completion  • Error Identification  • Passage Ordering  • Grammar  • Meanings ( Synonyms and Antonyms )  • Reading Comprehension...*
+
+### Table of Contents
+- Page 2: Sentence Completion
+- Page 2: Rules for Sentence Completion
+- Page 2: Rules for Sentence Completion
+  - Page 3: Restatement:
+  - Page 3: Comparison:
+  - Page 4: Contrast:
+  - Page 5: Cause and effect:
+- Page 5: Rules for Sentence Completion
+  - Page 6: TYPE – 1: Quantity Based
+  - Page 6: TYPE – 2: Length Based
+  - Page 6: TYPE – 3: Element Based
+- Page 6: Sample Questions
+  - Page 7: Question 1:
+  - Page 7: Question 2:
+- Page 7: How To Solve Sentence Completion
+- Page 8: How To Solve Sentence Completion
+  - Page 9: Types based on Word Usage:
+  - Page 9: Types based on Format:
+- Page 12: Tips and Tricks and Shortcuts for Sentence Completion
+- Page 13: Tips and Tricks and Shortcuts for Sentence Completion
+  - Page 13: Tip 1 – Check the Number of Blanks:
+  - Page 13: Tip 2 – Contextual Meaning:
+  - Page 14: Tip 3 – Order of Words:
+  - Page 14: Tip 4 – Correct Grammar:
+  - Page 14: Tip 5 – Visualize:
+  - Page 14: Tip 6 – Similar Options:
+  - Page 14: Tip 7 – Increase Vocabulary Skill:
+- Page 15: Tips and Tricks and Shortcuts for Sentence Completion
+  - Page 15: Question 1.
+  - Page 15: Question 2.
+- Page 16: Solve Completing Statements: Tips and Tricks
+- Page 16: Sample Questions on Sentence Completion
+  - Page 16: Fill in the Blanks with the correct option:
+- Page 19: Sample Questions on Paragraph Completion
+  - Page 19: Directions ( Q 11-15 )Choose the correct option to complete the paragraph:
+- Page 21: Suitable Approaches for Sentence Completion
+- Page 22: Error Indentification Rules
+- Page 23: Rules For Error Identification:-
+  - Page 23: The following rules for error identification should be kept in mind while solving any questions:
+- Page 25: Some Extra Rules for Spotting Error
+  - Page 25: 1. Use of Question Tags:
+  - Page 25: 2. Use of Relative Pronoun:
+  - Page 25: 3. Transitive and Intransitive Verb:
+- Page 29: How To Solve Error Identification Quickly
+  - Page 29: How To Solve Error Identification Question:
+  - Page 29: How To Solve Error Identification Question:
+  - Page 30: How To Solve Quickly Error Identification Question:
+  - Page 30: Error Identification – How to Solve Quickly
+- Page 33: Tips And Tricks And Shortcuts On Error Identification
+  - Page 33: Error Identification Tips and Tricks and Shortcuts:
+  - Page 33: More Error Identification – Tips and Tricks and Shortcuts
+  - Page 34: Type 1. Identify Error
+- Page 37: Rules For Paragraph Ordering
+  - Page 37: Rules for Paragraph Ordering
+  - Page 38: Rules for Paragraph Ordering
+  - Page 38: Rules For Paragraph Ordering:-
+  - Page 39: Important Facts
+- Page 39: How to Solve Paragraph Ordering Questions Quickly
+  - Page 39: How To Solve Paragraph Ordering Quickly
+  - Page 40: How To Solve Paragraph Ordering: Important
+  - Page 42: Sample Questions - Paragraph Ordering
+- Page 46: Tips And Tricks And Shortcuts For Paragraph Ordering
+  - Page 46: Tips And Tricks And Shortcuts For Paragraph Ordering
+  - Page 47: Tips And Tricks And Shortcuts On Paragraph Ordering:-
+  - Page 48: Tips and Tricks and Shortcuts for Paragraph Ordering
+  - Page 49: Paragraph Ordering Tips and Tricks– Arrange the paragraphs
+- Page 52: Rules For Grammar
+  - Page 52: Rules for English Grammar:-
+- Page 53: Rules For Articles | Articles a, an, the rules
+  - Page 53: Rules for Articles
+  - Page 53: Rules for Articles
+  - Page 54: Rules for Articles: Using Indefinite Article ‘A’ & ‘An’
+  - Page 56: Rules for Articles: Using Definite Article ‘The’
+- Page 60: Rules For Speech And Voices
+  - Page 60: Speech and Voices Rules
+  - Page 61: Speech
+  - Page 61: Voice
+  - Page 62: Rules For Speech - Direct & Indirect Speech
+  - Page 69: Rules For Voice - Active & Passive Voice
+  - Page 74: Rules For Voice - Active & Passive Voice
+- Page 80: Rules For Sentence Ordering
+  - Page 80: Sentence Ordering Rules
+  - Page 80: Rules For Sentence Ordering
+  - Page 81: Rules For Sentence Ordering In Details
+  - Page 82: Sentence Ordering: Skills Required:
+- Page 85: Rules For Synonyms And Antonyms
+  - Page 85: Rules For Synonyms and Antonyms
+  - Page 86: Important Tips for Solving Synonyms & Antonyms
+  - Page 87: Points to Remember while Solving Synonyms & Antonyms
+  - Page 87: Sample Questions
+- Page 90: Rules For Tenses And Articles
+  - Page 90: Rules For Tenses and Articles
+  - Page 91: Tenses and Articles Rules
+- Page 94: Rules For Prepositions And Conjunctions
+  - Page 94: Prepositions And Conjunctions Rules
+  - Page 94: Prepositions and Conjunctions Rules
+  - Page 98: SAMPLE QUESTIONS
+- Page 100: Rules For Subject Verb Agreement
+  - Page 100: Rules for Subject Verb Agreement
+  - Page 101: Subject Verb Agreement Rules
+  - Page 104: Practice Questions
+- Page 106: Rules For Jumbled Sentence
+  - Page 106: Jumbled Sentence Rules:
+  - Page 107: Some Important Points and Rules for Jumbled Sentence:-
+  - Page 109: Some Example Questions:
+- Page 113: Meanings ( Synonyms & Antonyms )
+- Page 113: How To Solve Synonyms And Antonyms Quickly
+  - Page 113: How To Solve Synonyms And Antonyms Quickly
+  - Page 114: How To Solve Synonyms and Antonyms Quickly
+  - Page 114: Points to Remember while Solving Synonyms & Antonyms
+  - Page 115: 1. Synonyms
+  - Page 118: 2. Antonyms
+- Page 121: Tips And Tricks And Shortcuts For Synonyms And Antonyms
+  - Page 121: Synonyms and Antonyms Tips and Tricks and Shortcuts
+  - Page 121: Easy Tips And Tricks And Shortcuts For Synonyms And Antonyms:
+  - Page 122: Some important tips for Synonyms and Antonyms
+  - Page 123: Synonyms and Antonyms Tips and Tricks and Related Problems:
+- Page 126: Rules For Reading Comprehension
+  - Page 126: Reading Comprehension Rules and Concepts:
+  - Page 127: Rules for Reading Comprehension
+- Page 131: Tips And Tricks And Shortcuts For Reading Comprehension
+  - Page 131: Tips and Tricks and Shortcuts for Reading Comprehension
+  - Page 132: Types of Reading Comprehension:
+  - Page 134: Tips and Tricks and Shortcuts for Reading Comprehension
+  - Page 135: Tips according to the length of the paragraph
+  - Page 136: Example – Tips and Tricks and Shortcuts for Reading Comprehension
+
+---
+
+## File: `_AI_MASTER_SYLLABUS.md`
+- **Type:** Text/Markdown
+- **Preview:** *# AI Master Syllabus & Folder Index  **Target Folder:** `E:\wk 6 - Aptitude\TCS NQT DOC resrc` > *This file acts as a lightweight index for the AI to understand folder contents without burning tokens.*  ## File: `5_6102705527509224719.pdf` - **Pages:** 6 - **Preview:** *Telegram: @PLACEMENTLELO     TCS NQT Detailed Syllabus 2024  TCS NQT Syllabus for 2024 batch is the following given below -  •  Foundation Section  o  Verbal Ability  o  Reasoning Ability  o  Numerical Ability  •  Advance Section...*
+
+---
+

@@ -1,0 +1,5002 @@
+[
+    {
+        "problem_id": "ADV-LOGIC-0001",
+        "sentence": "Alice must be adjacent to Node Y unless Meeting C sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0002",
+        "sentence": "Node Y must be adjacent to Bob unless Meeting sits opposite Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0003",
+        "sentence": "Bob sits opposite Meeting A unless Alice sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0004",
+        "sentence": "Charlie sits opposite Meeting unless Meeting sits next to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0005",
+        "sentence": "Meeting C sits opposite Alice unless Node Y sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0006",
+        "sentence": "Node X is not equal to Charlie if Meeting B is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0007",
+        "sentence": "Bob sits opposite Alice unless Node X sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0008",
+        "sentence": "Bob is not equal to Meeting B if Meeting A is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0009",
+        "sentence": "Alice is not equal to Meeting B if David is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0010",
+        "sentence": "David is not equal to Meeting C if Bob is adjacent to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0011",
+        "sentence": "David sits opposite Node Y unless Charlie sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0012",
+        "sentence": "Bob sits opposite Meeting unless Meeting sits next to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0013",
+        "sentence": "Node X is not equal to Charlie if Meeting is adjacent to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0014",
+        "sentence": "Bob must be adjacent to Node Y unless Meeting B sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0015",
+        "sentence": "Meeting sits opposite Bob unless Node Y sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0016",
+        "sentence": "Meeting sits opposite Charlie unless Node X sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0017",
+        "sentence": "Charlie sits opposite Alice unless Meeting sits next to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0018",
+        "sentence": "Alice sits opposite David unless Meeting C sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0019",
+        "sentence": "Charlie must be adjacent to Alice unless Bob sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0020",
+        "sentence": "Node Y must be adjacent to Meeting unless Alice sits opposite Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0021",
+        "sentence": "Charlie must be adjacent to Meeting unless Meeting sits opposite Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0022",
+        "sentence": "Meeting sits opposite Bob unless Meeting sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0023",
+        "sentence": "Meeting must be adjacent to Bob unless Alice sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0024",
+        "sentence": "Meeting must be adjacent to Meeting unless Charlie sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0025",
+        "sentence": "Meeting sits opposite Node Y unless Meeting sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0026",
+        "sentence": "Alice sits opposite David unless Meeting B sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0027",
+        "sentence": "Meeting is not equal to Meeting if Alice is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0028",
+        "sentence": "Bob sits opposite Charlie unless Meeting sits next to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0029",
+        "sentence": "Alice sits opposite Meeting unless Charlie sits next to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0030",
+        "sentence": "David must be adjacent to Bob unless Meeting sits opposite David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0031",
+        "sentence": "Alice must be adjacent to Node X unless David sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0032",
+        "sentence": "Meeting A sits opposite Alice unless Node X sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0033",
+        "sentence": "David must be adjacent to Meeting A unless Charlie sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0034",
+        "sentence": "Meeting is not equal to Alice if David is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0035",
+        "sentence": "Charlie is not equal to Node Y if Meeting C is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0036",
+        "sentence": "Meeting is not equal to Meeting if Alice is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0037",
+        "sentence": "David sits opposite Meeting unless Node X sits next to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0038",
+        "sentence": "Node X sits opposite Meeting unless Bob sits next to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0039",
+        "sentence": "Node Y must be adjacent to Meeting A unless Meeting B sits opposite Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0040",
+        "sentence": "Alice must be adjacent to Meeting unless Meeting sits opposite Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0041",
+        "sentence": "Meeting C must be adjacent to Bob unless Node X sits opposite Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0042",
+        "sentence": "Meeting must be adjacent to Node X unless Alice sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0043",
+        "sentence": "Charlie sits opposite Meeting unless Node Y sits next to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0044",
+        "sentence": "Meeting C is not equal to Meeting B if Node X is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0045",
+        "sentence": "Meeting C sits opposite Bob unless Meeting B sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0046",
+        "sentence": "Alice is not equal to Meeting A if Meeting B is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0047",
+        "sentence": "Bob must be adjacent to Meeting unless Alice sits opposite Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0048",
+        "sentence": "Meeting C is not equal to David if Meeting A is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0049",
+        "sentence": "Meeting C sits opposite Node X unless Node Y sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0050",
+        "sentence": "David sits opposite Alice unless Charlie sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0051",
+        "sentence": "Meeting A is not equal to Node X if Meeting C is adjacent to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0052",
+        "sentence": "David is not equal to Node X if Node Y is adjacent to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0053",
+        "sentence": "Bob must be adjacent to Node X unless Meeting sits opposite Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0054",
+        "sentence": "Charlie must be adjacent to Meeting A unless Bob sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0055",
+        "sentence": "Bob sits opposite Meeting unless Alice sits next to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0056",
+        "sentence": "David must be adjacent to Meeting C unless Meeting B sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0057",
+        "sentence": "Meeting sits opposite Node X unless Bob sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0058",
+        "sentence": "Meeting must be adjacent to Meeting unless Charlie sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0059",
+        "sentence": "Charlie must be adjacent to Node X unless Node Y sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0060",
+        "sentence": "Bob is not equal to David if Alice is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0061",
+        "sentence": "David must be adjacent to Meeting unless Bob sits opposite David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0062",
+        "sentence": "David sits opposite Meeting unless Meeting sits next to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0063",
+        "sentence": "Charlie must be adjacent to Alice unless Node Y sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0064",
+        "sentence": "Node X sits opposite Bob unless Meeting C sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0065",
+        "sentence": "Node Y is not equal to David if Bob is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0066",
+        "sentence": "David must be adjacent to Node X unless Meeting sits opposite David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0067",
+        "sentence": "Bob sits opposite Node X unless Meeting sits next to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0068",
+        "sentence": "Node X sits opposite Bob unless Meeting C sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0069",
+        "sentence": "Meeting A sits opposite Node X unless Charlie sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0070",
+        "sentence": "Charlie sits opposite David unless Meeting B sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0071",
+        "sentence": "Alice must be adjacent to Charlie unless David sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0072",
+        "sentence": "Node Y is not equal to Charlie if Meeting is adjacent to Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0073",
+        "sentence": "Bob sits opposite Meeting B unless Alice sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0074",
+        "sentence": "Meeting is not equal to Meeting if Node Y is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0075",
+        "sentence": "Node Y must be adjacent to Alice unless Charlie sits opposite Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0076",
+        "sentence": "Bob sits opposite Meeting C unless Alice sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0077",
+        "sentence": "Charlie must be adjacent to Node X unless Meeting sits opposite Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0078",
+        "sentence": "Alice must be adjacent to Meeting unless Meeting sits opposite Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0079",
+        "sentence": "Alice sits opposite Meeting A unless Bob sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0080",
+        "sentence": "Meeting is not equal to Meeting if Charlie is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0081",
+        "sentence": "Meeting is not equal to Node Y if Meeting is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0082",
+        "sentence": "Alice is not equal to Charlie if Meeting is adjacent to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0083",
+        "sentence": "David is not equal to Meeting if Meeting is adjacent to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0084",
+        "sentence": "Charlie must be adjacent to Bob unless Alice sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0085",
+        "sentence": "Meeting is not equal to Alice if Bob is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0086",
+        "sentence": "Alice is not equal to Node Y if Node X is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0087",
+        "sentence": "Node X must be adjacent to Meeting unless Meeting sits opposite Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0088",
+        "sentence": "Charlie must be adjacent to Alice unless Meeting A sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0089",
+        "sentence": "Meeting A must be adjacent to Node X unless Meeting C sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0090",
+        "sentence": "David sits opposite Meeting B unless Bob sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0091",
+        "sentence": "Meeting sits opposite Bob unless Node X sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0092",
+        "sentence": "Node Y is not equal to Bob if David is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0093",
+        "sentence": "Meeting sits opposite Charlie unless Bob sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0094",
+        "sentence": "David sits opposite Bob unless Node X sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0095",
+        "sentence": "Bob is not equal to Meeting B if Meeting C is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0096",
+        "sentence": "Charlie sits opposite David unless Node Y sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0097",
+        "sentence": "Meeting sits opposite Bob unless Node Y sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0098",
+        "sentence": "Meeting A sits opposite Meeting B unless Node X sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0099",
+        "sentence": "Node Y must be adjacent to Meeting C unless Node X sits opposite Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0100",
+        "sentence": "Node Y must be adjacent to Bob unless Meeting C sits opposite Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0101",
+        "sentence": "Meeting sits opposite David unless Meeting sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0102",
+        "sentence": "Meeting C sits opposite Node X unless David sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0103",
+        "sentence": "Node Y must be adjacent to Node X unless Meeting sits opposite Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0104",
+        "sentence": "Meeting B sits opposite Node Y unless Meeting A sits next to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0105",
+        "sentence": "Node Y is not equal to Meeting B if David is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0106",
+        "sentence": "Meeting A sits opposite Alice unless Meeting C sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0107",
+        "sentence": "Bob is not equal to Node X if Meeting is adjacent to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0108",
+        "sentence": "Charlie sits opposite David unless Alice sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0109",
+        "sentence": "Alice must be adjacent to Node X unless Meeting C sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0110",
+        "sentence": "Alice sits opposite Meeting unless Charlie sits next to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0111",
+        "sentence": "Meeting A is not equal to Meeting B if Bob is adjacent to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0112",
+        "sentence": "Alice is not equal to Bob if Meeting is adjacent to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0113",
+        "sentence": "David is not equal to Meeting A if Charlie is adjacent to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0114",
+        "sentence": "Meeting B sits opposite Node Y unless Meeting A sits next to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0115",
+        "sentence": "Meeting B is not equal to Node Y if David is adjacent to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0116",
+        "sentence": "David must be adjacent to Node Y unless Meeting sits opposite David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0117",
+        "sentence": "Node Y must be adjacent to Bob unless David sits opposite Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0118",
+        "sentence": "Meeting sits opposite Bob unless Meeting sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0119",
+        "sentence": "Bob sits opposite Node Y unless Alice sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0120",
+        "sentence": "Node X is not equal to Alice if Meeting is adjacent to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0121",
+        "sentence": "Alice must be adjacent to Meeting unless Bob sits opposite Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0122",
+        "sentence": "Meeting must be adjacent to Meeting unless Meeting sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0123",
+        "sentence": "Node Y must be adjacent to Meeting unless Alice sits opposite Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0124",
+        "sentence": "Meeting C must be adjacent to Charlie unless Node X sits opposite Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0125",
+        "sentence": "Meeting sits opposite Alice unless Node X sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0126",
+        "sentence": "Node X is not equal to Alice if Meeting is adjacent to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0127",
+        "sentence": "Node Y must be adjacent to Meeting unless Node X sits opposite Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0128",
+        "sentence": "Bob is not equal to Meeting A if Alice is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0129",
+        "sentence": "David sits opposite Meeting B unless Bob sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0130",
+        "sentence": "Node X sits opposite Alice unless Charlie sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0131",
+        "sentence": "Node X sits opposite Bob unless Meeting sits next to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0132",
+        "sentence": "David must be adjacent to Alice unless Node Y sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0133",
+        "sentence": "Meeting C is not equal to Alice if Node X is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0134",
+        "sentence": "Meeting B sits opposite Meeting A unless Bob sits next to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0135",
+        "sentence": "Alice must be adjacent to Charlie unless Meeting sits opposite Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0136",
+        "sentence": "Node X is not equal to Bob if Meeting A is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0137",
+        "sentence": "Node X must be adjacent to Bob unless David sits opposite Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0138",
+        "sentence": "Charlie sits opposite Node Y unless Meeting sits next to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0139",
+        "sentence": "Meeting C is not equal to Node Y if Meeting B is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0140",
+        "sentence": "Meeting B must be adjacent to Meeting C unless Charlie sits opposite Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0141",
+        "sentence": "Charlie is not equal to Node X if Meeting A is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0142",
+        "sentence": "Meeting B sits opposite Alice unless Node Y sits next to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0143",
+        "sentence": "Node Y must be adjacent to Node X unless Bob sits opposite Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0144",
+        "sentence": "Node X sits opposite Node Y unless Meeting sits next to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0145",
+        "sentence": "Bob must be adjacent to Meeting unless Charlie sits opposite Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0146",
+        "sentence": "Node Y is not equal to Meeting A if Alice is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0147",
+        "sentence": "Meeting C sits opposite Bob unless David sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0148",
+        "sentence": "Alice is not equal to Meeting A if Meeting C is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0149",
+        "sentence": "Meeting must be adjacent to Node X unless Meeting sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0150",
+        "sentence": "Meeting C must be adjacent to Meeting A unless Meeting B sits opposite Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0151",
+        "sentence": "Meeting B sits opposite David unless Meeting A sits next to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0152",
+        "sentence": "Node X is not equal to Node Y if Bob is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0153",
+        "sentence": "Meeting B must be adjacent to Node Y unless Charlie sits opposite Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0154",
+        "sentence": "Bob is not equal to Charlie if Meeting C is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0155",
+        "sentence": "Node Y is not equal to Node X if David is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0156",
+        "sentence": "Meeting B must be adjacent to Charlie unless Bob sits opposite Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0157",
+        "sentence": "Alice must be adjacent to Bob unless Meeting A sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0158",
+        "sentence": "Alice is not equal to Meeting if Bob is adjacent to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0159",
+        "sentence": "Node X sits opposite Bob unless Meeting sits next to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0160",
+        "sentence": "Meeting B sits opposite Bob unless Alice sits next to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0161",
+        "sentence": "Node X sits opposite Charlie unless Bob sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0162",
+        "sentence": "Meeting C sits opposite David unless Meeting A sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0163",
+        "sentence": "Bob is not equal to Meeting if David is adjacent to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0164",
+        "sentence": "Bob is not equal to Charlie if Meeting A is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0165",
+        "sentence": "Charlie must be adjacent to David unless Meeting sits opposite Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0166",
+        "sentence": "Charlie must be adjacent to Alice unless Meeting sits opposite Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0167",
+        "sentence": "Alice is not equal to David if Node Y is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0168",
+        "sentence": "Node Y sits opposite David unless Bob sits next to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0169",
+        "sentence": "Charlie must be adjacent to Meeting unless Node X sits opposite Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0170",
+        "sentence": "David must be adjacent to Meeting unless Charlie sits opposite David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0171",
+        "sentence": "Alice is not equal to Bob if Meeting C is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0172",
+        "sentence": "David must be adjacent to Alice unless Bob sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0173",
+        "sentence": "Meeting C is not equal to Alice if Node X is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0174",
+        "sentence": "Charlie is not equal to Meeting A if Meeting C is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0175",
+        "sentence": "Meeting C sits opposite Meeting B unless David sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0176",
+        "sentence": "Meeting C must be adjacent to Alice unless David sits opposite Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0177",
+        "sentence": "Node X sits opposite Alice unless Meeting B sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0178",
+        "sentence": "Bob must be adjacent to Meeting unless Meeting sits opposite Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0179",
+        "sentence": "Meeting A is not equal to Bob if Alice is adjacent to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0180",
+        "sentence": "Node Y is not equal to Alice if Bob is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0181",
+        "sentence": "Node Y is not equal to Node X if Bob is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0182",
+        "sentence": "Meeting C is not equal to Meeting A if David is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0183",
+        "sentence": "Meeting B is not equal to Charlie if Meeting C is adjacent to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0184",
+        "sentence": "Charlie is not equal to David if Node X is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0185",
+        "sentence": "David must be adjacent to Node X unless Meeting sits opposite David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0186",
+        "sentence": "Alice must be adjacent to Meeting B unless Charlie sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0187",
+        "sentence": "David must be adjacent to Charlie unless Meeting sits opposite David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0188",
+        "sentence": "Alice must be adjacent to Node X unless Meeting sits opposite Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0189",
+        "sentence": "Charlie sits opposite Meeting B unless Alice sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0190",
+        "sentence": "David is not equal to Meeting A if Node Y is adjacent to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0191",
+        "sentence": "Charlie must be adjacent to Node X unless Meeting sits opposite Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0192",
+        "sentence": "Meeting A sits opposite Node Y unless Meeting B sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0193",
+        "sentence": "Node X is not equal to David if Meeting B is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0194",
+        "sentence": "Meeting B is not equal to Meeting A if Node X is adjacent to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0195",
+        "sentence": "Alice sits opposite Meeting C unless David sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0196",
+        "sentence": "Node X sits opposite Meeting unless Meeting sits next to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0197",
+        "sentence": "Alice must be adjacent to Node Y unless Meeting B sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0198",
+        "sentence": "Node Y must be adjacent to Meeting unless Node X sits opposite Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0199",
+        "sentence": "David is not equal to Node X if Meeting is adjacent to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0200",
+        "sentence": "Meeting B is not equal to Meeting C if David is adjacent to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0201",
+        "sentence": "Meeting A is not equal to Node X if Bob is adjacent to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0202",
+        "sentence": "Node X sits opposite Bob unless Meeting B sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0203",
+        "sentence": "Node Y is not equal to Node X if Meeting B is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0204",
+        "sentence": "Bob must be adjacent to David unless Node Y sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0205",
+        "sentence": "Meeting C is not equal to Charlie if Meeting A is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0206",
+        "sentence": "Node Y sits opposite Meeting A unless Meeting C sits next to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0207",
+        "sentence": "Alice sits opposite Charlie unless David sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0208",
+        "sentence": "David sits opposite Meeting unless Meeting sits next to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0209",
+        "sentence": "Alice must be adjacent to Node X unless Node Y sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0210",
+        "sentence": "Meeting sits opposite Bob unless Alice sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0211",
+        "sentence": "David must be adjacent to Meeting unless Node Y sits opposite David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0212",
+        "sentence": "Node X sits opposite Node Y unless Meeting C sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0213",
+        "sentence": "Meeting C sits opposite Meeting A unless Bob sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0214",
+        "sentence": "Meeting B is not equal to David if Meeting C is adjacent to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0215",
+        "sentence": "Alice is not equal to Meeting if David is adjacent to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0216",
+        "sentence": "Node Y must be adjacent to Alice unless Meeting C sits opposite Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0217",
+        "sentence": "Alice sits opposite Meeting A unless Meeting C sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0218",
+        "sentence": "Meeting C must be adjacent to Meeting B unless Charlie sits opposite Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0219",
+        "sentence": "Meeting C must be adjacent to Alice unless Charlie sits opposite Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0220",
+        "sentence": "Bob sits opposite Meeting unless Node Y sits next to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0221",
+        "sentence": "Node X must be adjacent to Node Y unless Bob sits opposite Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0222",
+        "sentence": "Alice sits opposite Node Y unless Meeting sits next to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0223",
+        "sentence": "David sits opposite Alice unless Meeting B sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0224",
+        "sentence": "Charlie sits opposite David unless Meeting sits next to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0225",
+        "sentence": "Alice sits opposite Meeting unless Node X sits next to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0226",
+        "sentence": "Bob sits opposite David unless Meeting sits next to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0227",
+        "sentence": "Node Y must be adjacent to Charlie unless David sits opposite Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0228",
+        "sentence": "Meeting must be adjacent to Charlie unless Bob sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0229",
+        "sentence": "Bob sits opposite David unless Meeting sits next to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0230",
+        "sentence": "Meeting sits opposite Node X unless Meeting sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0231",
+        "sentence": "Node Y is not equal to Node X if Alice is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0232",
+        "sentence": "Meeting sits opposite Bob unless Charlie sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0233",
+        "sentence": "Node Y is not equal to Alice if Node X is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0234",
+        "sentence": "Node Y sits opposite Bob unless Meeting C sits next to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0235",
+        "sentence": "Charlie sits opposite Meeting unless Meeting sits next to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0236",
+        "sentence": "Meeting A is not equal to David if Node X is adjacent to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0237",
+        "sentence": "Node X is not equal to Alice if Meeting A is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0238",
+        "sentence": "Charlie must be adjacent to Node Y unless Node X sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0239",
+        "sentence": "Node Y sits opposite Charlie unless Meeting B sits next to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0240",
+        "sentence": "Alice sits opposite Bob unless Node Y sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0241",
+        "sentence": "Bob is not equal to Meeting if Alice is adjacent to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0242",
+        "sentence": "Alice sits opposite David unless Node Y sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0243",
+        "sentence": "Bob must be adjacent to Node X unless Meeting sits opposite Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0244",
+        "sentence": "Meeting is not equal to Charlie if Meeting is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0245",
+        "sentence": "Meeting A sits opposite Meeting C unless Node Y sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0246",
+        "sentence": "Node X is not equal to Meeting C if Meeting A is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0247",
+        "sentence": "Meeting must be adjacent to Meeting unless Charlie sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0248",
+        "sentence": "Bob is not equal to Meeting A if Meeting C is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0249",
+        "sentence": "Meeting is not equal to Alice if Node Y is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0250",
+        "sentence": "Bob sits opposite Meeting B unless David sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0251",
+        "sentence": "Node Y is not equal to Node X if David is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0252",
+        "sentence": "Alice is not equal to Meeting if Node Y is adjacent to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0253",
+        "sentence": "Node Y is not equal to Node X if Charlie is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0254",
+        "sentence": "Meeting must be adjacent to Node X unless Meeting sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0255",
+        "sentence": "Meeting sits opposite David unless Node Y sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0256",
+        "sentence": "Alice sits opposite Node Y unless Node X sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0257",
+        "sentence": "Alice is not equal to Node Y if Node X is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0258",
+        "sentence": "Alice is not equal to Node Y if Bob is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0259",
+        "sentence": "Meeting must be adjacent to Meeting unless Alice sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0260",
+        "sentence": "David must be adjacent to Charlie unless Node X sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0261",
+        "sentence": "Meeting must be adjacent to Charlie unless Meeting sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0262",
+        "sentence": "Bob is not equal to Node X if Meeting is adjacent to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0263",
+        "sentence": "Charlie must be adjacent to Bob unless Node Y sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0264",
+        "sentence": "Meeting sits opposite Meeting unless Meeting sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0265",
+        "sentence": "David sits opposite Meeting unless Bob sits next to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0266",
+        "sentence": "Meeting is not equal to Meeting if Alice is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0267",
+        "sentence": "Charlie must be adjacent to Bob unless David sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0268",
+        "sentence": "Charlie is not equal to Meeting if Meeting is adjacent to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0269",
+        "sentence": "Alice must be adjacent to Node Y unless Bob sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0270",
+        "sentence": "Bob is not equal to Node Y if Node X is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0271",
+        "sentence": "David sits opposite Alice unless Meeting B sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0272",
+        "sentence": "Meeting B is not equal to Bob if Node Y is adjacent to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0273",
+        "sentence": "David is not equal to Bob if Charlie is adjacent to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0274",
+        "sentence": "Meeting must be adjacent to Node Y unless Alice sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0275",
+        "sentence": "David sits opposite Bob unless Meeting A sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0276",
+        "sentence": "Bob is not equal to Charlie if Meeting A is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0277",
+        "sentence": "Meeting C is not equal to Alice if David is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0278",
+        "sentence": "David is not equal to Charlie if Node Y is adjacent to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0279",
+        "sentence": "Meeting A is not equal to Meeting B if David is adjacent to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0280",
+        "sentence": "Node Y must be adjacent to Meeting B unless Meeting A sits opposite Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0281",
+        "sentence": "Meeting A must be adjacent to Charlie unless Alice sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0282",
+        "sentence": "Node Y is not equal to Alice if David is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0283",
+        "sentence": "David sits opposite Node Y unless Bob sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0284",
+        "sentence": "Meeting A must be adjacent to Bob unless Node Y sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0285",
+        "sentence": "David must be adjacent to Alice unless Meeting sits opposite David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0286",
+        "sentence": "Meeting A must be adjacent to Meeting B unless Node Y sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0287",
+        "sentence": "Node X sits opposite Meeting unless David sits next to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0288",
+        "sentence": "Node X sits opposite Meeting C unless David sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0289",
+        "sentence": "Alice must be adjacent to Meeting C unless Node Y sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0290",
+        "sentence": "Node X must be adjacent to Meeting B unless Charlie sits opposite Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0291",
+        "sentence": "Node X must be adjacent to Alice unless Meeting B sits opposite Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0292",
+        "sentence": "Meeting A must be adjacent to Bob unless Meeting C sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0293",
+        "sentence": "Charlie must be adjacent to David unless Meeting sits opposite Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0294",
+        "sentence": "Node Y must be adjacent to Meeting unless Charlie sits opposite Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0295",
+        "sentence": "Alice sits opposite Bob unless Meeting A sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0296",
+        "sentence": "Meeting sits opposite Alice unless Node X sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0297",
+        "sentence": "David sits opposite Meeting unless Meeting sits next to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0298",
+        "sentence": "Alice must be adjacent to Charlie unless Bob sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0299",
+        "sentence": "David is not equal to Node Y if Meeting is adjacent to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0300",
+        "sentence": "Alice sits opposite Charlie unless Bob sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0301",
+        "sentence": "David sits opposite Charlie unless Meeting sits next to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0302",
+        "sentence": "Meeting A is not equal to David if Node Y is adjacent to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0303",
+        "sentence": "Alice must be adjacent to Meeting unless Node Y sits opposite Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0304",
+        "sentence": "Node X is not equal to Bob if David is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0305",
+        "sentence": "Node X must be adjacent to Meeting unless Bob sits opposite Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0306",
+        "sentence": "Meeting A sits opposite Meeting B unless David sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0307",
+        "sentence": "Node X is not equal to David if Meeting is adjacent to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0308",
+        "sentence": "Node Y sits opposite Meeting A unless Alice sits next to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0309",
+        "sentence": "David is not equal to Meeting C if Alice is adjacent to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0310",
+        "sentence": "Charlie is not equal to David if Bob is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0311",
+        "sentence": "Bob must be adjacent to Alice unless Meeting sits opposite Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0312",
+        "sentence": "Node Y must be adjacent to Meeting A unless David sits opposite Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0313",
+        "sentence": "Node X is not equal to Meeting if Alice is adjacent to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0314",
+        "sentence": "Bob must be adjacent to Charlie unless Alice sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0315",
+        "sentence": "Alice must be adjacent to Charlie unless David sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0316",
+        "sentence": "Meeting must be adjacent to Meeting unless David sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0317",
+        "sentence": "Node X must be adjacent to Meeting unless Node Y sits opposite Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0318",
+        "sentence": "Meeting C is not equal to Bob if Meeting A is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0319",
+        "sentence": "Bob is not equal to Node Y if Charlie is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0320",
+        "sentence": "David must be adjacent to Node Y unless Alice sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0321",
+        "sentence": "Meeting is not equal to Node X if Node Y is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0322",
+        "sentence": "Node Y is not equal to Bob if Meeting C is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0323",
+        "sentence": "Node Y is not equal to Meeting A if Bob is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0324",
+        "sentence": "Alice must be adjacent to Meeting unless Node Y sits opposite Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0325",
+        "sentence": "Alice sits opposite Node X unless Node Y sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0326",
+        "sentence": "David must be adjacent to Meeting C unless Meeting A sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0327",
+        "sentence": "Node Y must be adjacent to Charlie unless Alice sits opposite Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0328",
+        "sentence": "David sits opposite Node X unless Bob sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0329",
+        "sentence": "Bob sits opposite Meeting unless Charlie sits next to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0330",
+        "sentence": "Node X sits opposite Alice unless Meeting C sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0331",
+        "sentence": "David must be adjacent to Node X unless Meeting A sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0332",
+        "sentence": "Meeting A sits opposite Node X unless Meeting C sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0333",
+        "sentence": "Bob is not equal to Charlie if Alice is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0334",
+        "sentence": "Node Y sits opposite David unless Charlie sits next to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0335",
+        "sentence": "Meeting C must be adjacent to Alice unless Bob sits opposite Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0336",
+        "sentence": "Node Y is not equal to Node X if Bob is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0337",
+        "sentence": "Alice must be adjacent to David unless Node Y sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0338",
+        "sentence": "Node X sits opposite Meeting unless Meeting sits next to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0339",
+        "sentence": "David must be adjacent to Alice unless Node X sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0340",
+        "sentence": "David must be adjacent to Meeting B unless Bob sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0341",
+        "sentence": "Charlie is not equal to Alice if Meeting is adjacent to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0342",
+        "sentence": "Bob is not equal to Node X if Node Y is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0343",
+        "sentence": "Meeting B is not equal to Charlie if Node Y is adjacent to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0344",
+        "sentence": "Charlie sits opposite Node X unless Alice sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0345",
+        "sentence": "Node Y is not equal to Bob if Charlie is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0346",
+        "sentence": "Meeting must be adjacent to Charlie unless Node X sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0347",
+        "sentence": "David sits opposite Node X unless Charlie sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0348",
+        "sentence": "Meeting C sits opposite David unless Bob sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0349",
+        "sentence": "Meeting B must be adjacent to Meeting C unless Node X sits opposite Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0350",
+        "sentence": "Bob must be adjacent to David unless Meeting sits opposite Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0351",
+        "sentence": "Charlie must be adjacent to Node Y unless Meeting sits opposite Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0352",
+        "sentence": "Meeting is not equal to David if Alice is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0353",
+        "sentence": "Meeting C must be adjacent to Node Y unless Meeting A sits opposite Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0354",
+        "sentence": "Meeting C is not equal to Meeting B if Charlie is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0355",
+        "sentence": "Meeting B sits opposite David unless Alice sits next to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0356",
+        "sentence": "Node Y must be adjacent to Node X unless Bob sits opposite Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0357",
+        "sentence": "Meeting A sits opposite Alice unless Bob sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0358",
+        "sentence": "Alice must be adjacent to Bob unless Meeting sits opposite Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0359",
+        "sentence": "Node X sits opposite Meeting B unless David sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0360",
+        "sentence": "David must be adjacent to Charlie unless Bob sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0361",
+        "sentence": "Bob must be adjacent to David unless Meeting A sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0362",
+        "sentence": "Meeting sits opposite Node Y unless Charlie sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0363",
+        "sentence": "Alice sits opposite Meeting B unless Node Y sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0364",
+        "sentence": "Charlie is not equal to David if Node Y is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0365",
+        "sentence": "Node X must be adjacent to Meeting C unless Node Y sits opposite Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0366",
+        "sentence": "Meeting A must be adjacent to Node X unless Bob sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0367",
+        "sentence": "Bob is not equal to Node Y if Alice is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0368",
+        "sentence": "Meeting B sits opposite David unless Alice sits next to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0369",
+        "sentence": "Bob must be adjacent to Node Y unless Charlie sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0370",
+        "sentence": "Node Y must be adjacent to Alice unless Bob sits opposite Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0371",
+        "sentence": "Node Y is not equal to Alice if David is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0372",
+        "sentence": "David sits opposite Node Y unless Meeting sits next to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0373",
+        "sentence": "Node Y sits opposite David unless Alice sits next to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0374",
+        "sentence": "Charlie sits opposite Node X unless Meeting A sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0375",
+        "sentence": "Bob sits opposite Charlie unless Alice sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0376",
+        "sentence": "Meeting A sits opposite Alice unless Meeting C sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0377",
+        "sentence": "Alice must be adjacent to Node Y unless Meeting B sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0378",
+        "sentence": "Charlie must be adjacent to Meeting unless Meeting sits opposite Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0379",
+        "sentence": "David must be adjacent to Alice unless Charlie sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0380",
+        "sentence": "Bob sits opposite Node Y unless Node X sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0381",
+        "sentence": "Meeting C sits opposite David unless Node Y sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0382",
+        "sentence": "Meeting B must be adjacent to Node Y unless Bob sits opposite Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0383",
+        "sentence": "Bob sits opposite Alice unless Meeting sits next to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0384",
+        "sentence": "Meeting is not equal to Alice if Bob is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0385",
+        "sentence": "Bob is not equal to Meeting if Charlie is adjacent to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0386",
+        "sentence": "Meeting A must be adjacent to Meeting C unless Alice sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0387",
+        "sentence": "Bob sits opposite Meeting C unless Alice sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0388",
+        "sentence": "Bob sits opposite Charlie unless David sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0389",
+        "sentence": "Bob sits opposite David unless Node Y sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0390",
+        "sentence": "Charlie sits opposite Alice unless Node Y sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0391",
+        "sentence": "Meeting B must be adjacent to Meeting A unless Bob sits opposite Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0392",
+        "sentence": "Meeting is not equal to Charlie if Node X is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0393",
+        "sentence": "Alice must be adjacent to Node X unless Meeting sits opposite Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0394",
+        "sentence": "Alice is not equal to David if Meeting C is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0395",
+        "sentence": "Alice is not equal to Meeting B if Node Y is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0396",
+        "sentence": "Node X must be adjacent to David unless Bob sits opposite Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0397",
+        "sentence": "Charlie is not equal to Node Y if David is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0398",
+        "sentence": "Alice must be adjacent to Bob unless Meeting C sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0399",
+        "sentence": "Meeting A sits opposite Node Y unless Meeting B sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0400",
+        "sentence": "Meeting A sits opposite Meeting C unless Node X sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0401",
+        "sentence": "Meeting C sits opposite Meeting A unless Meeting B sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0402",
+        "sentence": "Alice sits opposite David unless Node X sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0403",
+        "sentence": "Bob must be adjacent to Charlie unless David sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0404",
+        "sentence": "Node Y is not equal to Meeting if Node X is adjacent to Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0405",
+        "sentence": "Charlie must be adjacent to Node X unless Meeting B sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0406",
+        "sentence": "Meeting is not equal to Alice if Meeting is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0407",
+        "sentence": "Bob must be adjacent to Meeting A unless Node X sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0408",
+        "sentence": "Meeting sits opposite Node Y unless Charlie sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0409",
+        "sentence": "Bob must be adjacent to Node X unless Meeting B sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0410",
+        "sentence": "Bob must be adjacent to Meeting unless Node X sits opposite Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0411",
+        "sentence": "Charlie must be adjacent to Meeting A unless Node Y sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0412",
+        "sentence": "Meeting A must be adjacent to Meeting C unless Bob sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0413",
+        "sentence": "David sits opposite Meeting unless Node Y sits next to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0414",
+        "sentence": "Meeting C is not equal to Node X if Meeting B is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0415",
+        "sentence": "Meeting must be adjacent to Charlie unless Alice sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0416",
+        "sentence": "Meeting must be adjacent to Meeting unless Node X sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0417",
+        "sentence": "David is not equal to Meeting B if Node Y is adjacent to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0418",
+        "sentence": "Alice must be adjacent to Charlie unless Meeting sits opposite Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0419",
+        "sentence": "Meeting must be adjacent to Bob unless Node X sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0420",
+        "sentence": "Node X sits opposite Meeting unless Meeting sits next to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0421",
+        "sentence": "Charlie sits opposite Alice unless Meeting B sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0422",
+        "sentence": "Meeting A must be adjacent to Meeting C unless Node X sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0423",
+        "sentence": "Bob must be adjacent to Meeting C unless Alice sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0424",
+        "sentence": "Charlie sits opposite Alice unless Node X sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0425",
+        "sentence": "Meeting A sits opposite Node X unless Node Y sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0426",
+        "sentence": "Meeting A must be adjacent to Meeting B unless Bob sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0427",
+        "sentence": "Bob must be adjacent to Meeting B unless Meeting A sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0428",
+        "sentence": "Bob is not equal to Alice if Meeting B is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0429",
+        "sentence": "Meeting B sits opposite Meeting C unless Meeting A sits next to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0430",
+        "sentence": "Bob must be adjacent to Node Y unless Meeting sits opposite Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0431",
+        "sentence": "Bob must be adjacent to Meeting B unless Charlie sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0432",
+        "sentence": "David must be adjacent to Node Y unless Node X sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0433",
+        "sentence": "Bob is not equal to Node Y if Alice is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0434",
+        "sentence": "Alice is not equal to Node X if Meeting is adjacent to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0435",
+        "sentence": "Charlie must be adjacent to Meeting unless Node X sits opposite Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0436",
+        "sentence": "Meeting sits opposite Node X unless Node Y sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0437",
+        "sentence": "Alice must be adjacent to Meeting B unless David sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0438",
+        "sentence": "Node Y is not equal to Bob if Alice is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0439",
+        "sentence": "Meeting B sits opposite Alice unless Charlie sits next to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0440",
+        "sentence": "Charlie must be adjacent to Node X unless Bob sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0441",
+        "sentence": "Alice must be adjacent to Meeting C unless Node X sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0442",
+        "sentence": "Meeting must be adjacent to Meeting unless Bob sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0443",
+        "sentence": "Meeting sits opposite Meeting unless Meeting sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0444",
+        "sentence": "Node X is not equal to David if Meeting is adjacent to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0445",
+        "sentence": "David sits opposite Meeting unless Bob sits next to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0446",
+        "sentence": "Charlie must be adjacent to Meeting unless Node Y sits opposite Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0447",
+        "sentence": "Bob is not equal to Node Y if Meeting is adjacent to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0448",
+        "sentence": "David is not equal to Node X if Alice is adjacent to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0449",
+        "sentence": "Node Y is not equal to Meeting if Alice is adjacent to Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0450",
+        "sentence": "Meeting A sits opposite Meeting C unless David sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0451",
+        "sentence": "Meeting C must be adjacent to Node X unless Charlie sits opposite Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0452",
+        "sentence": "Alice is not equal to Node Y if Charlie is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0453",
+        "sentence": "Meeting must be adjacent to Node X unless David sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0454",
+        "sentence": "Meeting sits opposite David unless Meeting sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0455",
+        "sentence": "Charlie is not equal to Meeting if Alice is adjacent to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0456",
+        "sentence": "David sits opposite Node X unless Node Y sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0457",
+        "sentence": "David must be adjacent to Alice unless Charlie sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0458",
+        "sentence": "Meeting is not equal to Alice if Meeting is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0459",
+        "sentence": "Meeting sits opposite Meeting unless Node Y sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0460",
+        "sentence": "David sits opposite Alice unless Meeting C sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0461",
+        "sentence": "Alice must be adjacent to Node Y unless David sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0462",
+        "sentence": "Charlie must be adjacent to David unless Meeting sits opposite Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0463",
+        "sentence": "Bob sits opposite David unless Meeting sits next to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0464",
+        "sentence": "David sits opposite Node X unless Bob sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0465",
+        "sentence": "David is not equal to Alice if Meeting B is adjacent to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0466",
+        "sentence": "David must be adjacent to Charlie unless Alice sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0467",
+        "sentence": "Meeting B is not equal to Meeting A if Bob is adjacent to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0468",
+        "sentence": "Charlie must be adjacent to Meeting unless Node X sits opposite Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0469",
+        "sentence": "David sits opposite Node Y unless Alice sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0470",
+        "sentence": "David must be adjacent to Alice unless Node Y sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0471",
+        "sentence": "Charlie must be adjacent to Node Y unless David sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0472",
+        "sentence": "Charlie is not equal to Meeting if Node Y is adjacent to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0473",
+        "sentence": "Node Y sits opposite Node X unless Meeting B sits next to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0474",
+        "sentence": "Alice is not equal to David if Meeting C is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0475",
+        "sentence": "Alice sits opposite Node X unless Charlie sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0476",
+        "sentence": "David sits opposite Bob unless Charlie sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0477",
+        "sentence": "Node Y sits opposite Meeting B unless David sits next to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0478",
+        "sentence": "Meeting C must be adjacent to Node X unless Charlie sits opposite Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0479",
+        "sentence": "Meeting sits opposite Charlie unless Meeting sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0480",
+        "sentence": "Bob sits opposite Charlie unless Meeting C sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0481",
+        "sentence": "Meeting is not equal to Meeting if David is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0482",
+        "sentence": "Alice must be adjacent to Meeting C unless Meeting B sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0483",
+        "sentence": "Node X sits opposite Meeting unless Alice sits next to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0484",
+        "sentence": "Meeting A sits opposite David unless Meeting C sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0485",
+        "sentence": "Node X is not equal to Meeting if Meeting is adjacent to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0486",
+        "sentence": "Charlie is not equal to Alice if Meeting C is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0487",
+        "sentence": "Charlie is not equal to David if Bob is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0488",
+        "sentence": "Meeting A is not equal to Node Y if Charlie is adjacent to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0489",
+        "sentence": "Meeting must be adjacent to Alice unless Node Y sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0490",
+        "sentence": "Node X is not equal to Meeting B if David is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0491",
+        "sentence": "Charlie sits opposite Meeting unless David sits next to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0492",
+        "sentence": "Charlie sits opposite David unless Alice sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0493",
+        "sentence": "David must be adjacent to Alice unless Node X sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0494",
+        "sentence": "Node X must be adjacent to Node Y unless Charlie sits opposite Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0495",
+        "sentence": "David is not equal to Charlie if Meeting A is adjacent to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0496",
+        "sentence": "Meeting A must be adjacent to Meeting C unless Node Y sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0497",
+        "sentence": "Meeting B sits opposite Node X unless Meeting C sits next to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0498",
+        "sentence": "David sits opposite Node X unless Node Y sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0499",
+        "sentence": "Meeting sits opposite Meeting unless Node Y sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0500",
+        "sentence": "Meeting C sits opposite Node Y unless Charlie sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0501",
+        "sentence": "Bob is not equal to Meeting C if David is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0502",
+        "sentence": "Alice is not equal to Node X if Node Y is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0503",
+        "sentence": "Node X must be adjacent to David unless Bob sits opposite Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0504",
+        "sentence": "Meeting must be adjacent to Node Y unless Meeting sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0505",
+        "sentence": "Charlie sits opposite Node Y unless Meeting sits next to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0506",
+        "sentence": "Charlie must be adjacent to David unless Meeting C sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0507",
+        "sentence": "Alice is not equal to Meeting if Node Y is adjacent to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0508",
+        "sentence": "Node Y is not equal to David if Node X is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0509",
+        "sentence": "Charlie sits opposite David unless Bob sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0510",
+        "sentence": "Node X must be adjacent to Node Y unless Bob sits opposite Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0511",
+        "sentence": "Node X must be adjacent to Meeting B unless Meeting C sits opposite Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0512",
+        "sentence": "Meeting sits opposite Meeting unless Meeting sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0513",
+        "sentence": "Charlie sits opposite Node Y unless Alice sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0514",
+        "sentence": "Charlie must be adjacent to David unless Node X sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0515",
+        "sentence": "Meeting sits opposite Meeting unless David sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0516",
+        "sentence": "Node Y is not equal to Node X if Meeting is adjacent to Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0517",
+        "sentence": "Node Y sits opposite Node X unless David sits next to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0518",
+        "sentence": "Node X must be adjacent to Alice unless Meeting C sits opposite Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0519",
+        "sentence": "Alice must be adjacent to Node Y unless Node X sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0520",
+        "sentence": "David is not equal to Node X if Charlie is adjacent to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0521",
+        "sentence": "Node Y must be adjacent to David unless Charlie sits opposite Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0522",
+        "sentence": "Alice sits opposite Bob unless Charlie sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0523",
+        "sentence": "David is not equal to Alice if Meeting is adjacent to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0524",
+        "sentence": "Node X sits opposite Bob unless Charlie sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0525",
+        "sentence": "Bob must be adjacent to Charlie unless Node Y sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0526",
+        "sentence": "Meeting sits opposite David unless Node Y sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0527",
+        "sentence": "Meeting must be adjacent to Node Y unless Meeting sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0528",
+        "sentence": "Node X sits opposite Charlie unless Meeting sits next to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0529",
+        "sentence": "Charlie must be adjacent to David unless Alice sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0530",
+        "sentence": "Bob sits opposite Meeting unless David sits next to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0531",
+        "sentence": "Charlie is not equal to David if Alice is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0532",
+        "sentence": "Meeting B must be adjacent to Node Y unless Alice sits opposite Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0533",
+        "sentence": "Meeting B must be adjacent to Node Y unless David sits opposite Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0534",
+        "sentence": "Meeting C must be adjacent to Charlie unless Meeting B sits opposite Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0535",
+        "sentence": "Node X must be adjacent to Meeting B unless Meeting A sits opposite Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0536",
+        "sentence": "David must be adjacent to Bob unless Node Y sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0537",
+        "sentence": "Node X is not equal to Meeting A if Alice is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0538",
+        "sentence": "Meeting C sits opposite Node X unless Node Y sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0539",
+        "sentence": "Meeting C must be adjacent to Charlie unless Alice sits opposite Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0540",
+        "sentence": "Meeting sits opposite Meeting unless Meeting sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0541",
+        "sentence": "Meeting is not equal to David if Bob is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0542",
+        "sentence": "Meeting is not equal to Bob if Charlie is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0543",
+        "sentence": "Node Y sits opposite Bob unless Meeting B sits next to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0544",
+        "sentence": "Charlie sits opposite Meeting B unless Meeting C sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0545",
+        "sentence": "Alice is not equal to Node Y if Meeting A is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0546",
+        "sentence": "Node X is not equal to David if Charlie is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0547",
+        "sentence": "Node X is not equal to Bob if Meeting is adjacent to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0548",
+        "sentence": "Node Y sits opposite Meeting unless Meeting sits next to Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0549",
+        "sentence": "Meeting must be adjacent to Bob unless Meeting sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0550",
+        "sentence": "Meeting C is not equal to Charlie if David is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0551",
+        "sentence": "Alice is not equal to Meeting A if Meeting B is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0552",
+        "sentence": "Meeting A must be adjacent to Meeting C unless Charlie sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0553",
+        "sentence": "Meeting C sits opposite Bob unless Node X sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0554",
+        "sentence": "Meeting must be adjacent to Node Y unless Alice sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0555",
+        "sentence": "Meeting must be adjacent to Meeting unless Alice sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0556",
+        "sentence": "Meeting sits opposite Bob unless Meeting sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0557",
+        "sentence": "Node X is not equal to David if Charlie is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0558",
+        "sentence": "Alice must be adjacent to Node Y unless Meeting A sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0559",
+        "sentence": "Node Y must be adjacent to Charlie unless Meeting sits opposite Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0560",
+        "sentence": "Alice must be adjacent to Charlie unless David sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0561",
+        "sentence": "Charlie is not equal to Bob if Node X is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0562",
+        "sentence": "Node X must be adjacent to David unless Meeting C sits opposite Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0563",
+        "sentence": "Meeting A sits opposite Node X unless Meeting B sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0564",
+        "sentence": "Meeting B must be adjacent to Node Y unless Node X sits opposite Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0565",
+        "sentence": "David must be adjacent to Node X unless Alice sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0566",
+        "sentence": "Meeting must be adjacent to Node Y unless Charlie sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0567",
+        "sentence": "Meeting is not equal to Meeting if Bob is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0568",
+        "sentence": "Alice must be adjacent to Node X unless Meeting sits opposite Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0569",
+        "sentence": "Charlie sits opposite Bob unless David sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0570",
+        "sentence": "Alice sits opposite Meeting C unless Node X sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0571",
+        "sentence": "Node Y is not equal to Alice if Charlie is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0572",
+        "sentence": "Alice must be adjacent to David unless Charlie sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0573",
+        "sentence": "Meeting A must be adjacent to Node Y unless Charlie sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0574",
+        "sentence": "David is not equal to Meeting C if Node X is adjacent to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0575",
+        "sentence": "Node X must be adjacent to Meeting C unless Alice sits opposite Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0576",
+        "sentence": "Alice must be adjacent to Bob unless Node Y sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0577",
+        "sentence": "David is not equal to Charlie if Node X is adjacent to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0578",
+        "sentence": "Meeting A is not equal to David if Node Y is adjacent to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0579",
+        "sentence": "Bob must be adjacent to Meeting unless Node Y sits opposite Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0580",
+        "sentence": "Bob is not equal to Meeting if Meeting is adjacent to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0581",
+        "sentence": "Meeting must be adjacent to Node X unless Meeting sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0582",
+        "sentence": "Meeting sits opposite Node Y unless Alice sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0583",
+        "sentence": "David is not equal to Meeting if Alice is adjacent to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0584",
+        "sentence": "Node Y sits opposite Bob unless Alice sits next to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0585",
+        "sentence": "Bob sits opposite Meeting A unless Node X sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0586",
+        "sentence": "Node Y must be adjacent to Node X unless Bob sits opposite Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0587",
+        "sentence": "David sits opposite Meeting C unless Meeting B sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0588",
+        "sentence": "Alice must be adjacent to Charlie unless Node X sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0589",
+        "sentence": "Meeting B is not equal to Charlie if Meeting A is adjacent to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0590",
+        "sentence": "Meeting C sits opposite Meeting B unless David sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0591",
+        "sentence": "Meeting must be adjacent to Node X unless Meeting sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0592",
+        "sentence": "Bob must be adjacent to Charlie unless Node Y sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0593",
+        "sentence": "Meeting must be adjacent to Bob unless Node Y sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0594",
+        "sentence": "Meeting A must be adjacent to Bob unless Charlie sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0595",
+        "sentence": "Node X is not equal to Alice if Node Y is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0596",
+        "sentence": "Node X is not equal to Meeting A if Node Y is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0597",
+        "sentence": "Meeting is not equal to Node Y if Node X is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0598",
+        "sentence": "Alice must be adjacent to Bob unless Meeting sits opposite Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0599",
+        "sentence": "David is not equal to Bob if Meeting is adjacent to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0600",
+        "sentence": "Meeting B is not equal to Node X if Node Y is adjacent to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0601",
+        "sentence": "Node X is not equal to Node Y if Charlie is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0602",
+        "sentence": "Charlie is not equal to Meeting C if Node Y is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0603",
+        "sentence": "Node X must be adjacent to Meeting unless Alice sits opposite Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0604",
+        "sentence": "Meeting B sits opposite Node X unless Meeting C sits next to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0605",
+        "sentence": "Meeting is not equal to Node X if Meeting is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0606",
+        "sentence": "Charlie sits opposite Meeting B unless Bob sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0607",
+        "sentence": "David must be adjacent to Node Y unless Charlie sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0608",
+        "sentence": "Bob must be adjacent to Meeting unless David sits opposite Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0609",
+        "sentence": "Node X is not equal to Alice if Node Y is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0610",
+        "sentence": "Alice must be adjacent to Meeting C unless Charlie sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0611",
+        "sentence": "Meeting C sits opposite Bob unless Node Y sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0612",
+        "sentence": "David must be adjacent to Charlie unless Meeting sits opposite David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0613",
+        "sentence": "Meeting must be adjacent to Charlie unless David sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0614",
+        "sentence": "Meeting B is not equal to David if Alice is adjacent to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0615",
+        "sentence": "Charlie sits opposite Meeting unless David sits next to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0616",
+        "sentence": "Charlie sits opposite Meeting unless Bob sits next to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0617",
+        "sentence": "Node Y sits opposite Meeting unless Meeting sits next to Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0618",
+        "sentence": "Meeting A must be adjacent to Bob unless Charlie sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0619",
+        "sentence": "Node X sits opposite Charlie unless Node Y sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0620",
+        "sentence": "Charlie is not equal to David if Meeting is adjacent to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0621",
+        "sentence": "Node Y is not equal to David if Bob is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0622",
+        "sentence": "Meeting sits opposite Node Y unless Meeting sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0623",
+        "sentence": "Node X is not equal to Bob if Meeting is adjacent to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0624",
+        "sentence": "Charlie is not equal to Node Y if Alice is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0625",
+        "sentence": "Alice must be adjacent to Meeting unless Charlie sits opposite Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0626",
+        "sentence": "Alice must be adjacent to Meeting A unless Node Y sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0627",
+        "sentence": "Meeting C must be adjacent to David unless Charlie sits opposite Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0628",
+        "sentence": "Node X is not equal to Meeting A if Meeting B is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0629",
+        "sentence": "Alice must be adjacent to Charlie unless Node X sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0630",
+        "sentence": "Node X is not equal to Meeting A if Node Y is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0631",
+        "sentence": "Alice sits opposite Charlie unless Node X sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0632",
+        "sentence": "Node Y must be adjacent to Charlie unless Meeting sits opposite Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0633",
+        "sentence": "Charlie must be adjacent to Meeting C unless Alice sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0634",
+        "sentence": "Meeting is not equal to Bob if Meeting is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0635",
+        "sentence": "Charlie is not equal to Meeting C if Node Y is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0636",
+        "sentence": "Bob is not equal to Meeting if David is adjacent to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0637",
+        "sentence": "Meeting must be adjacent to Node X unless Meeting sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0638",
+        "sentence": "Bob sits opposite Alice unless Node Y sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0639",
+        "sentence": "Meeting is not equal to Alice if Node Y is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0640",
+        "sentence": "Meeting must be adjacent to Bob unless Node Y sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0641",
+        "sentence": "Meeting B must be adjacent to Charlie unless David sits opposite Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0642",
+        "sentence": "Alice must be adjacent to Meeting B unless Node X sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0643",
+        "sentence": "Alice sits opposite Bob unless Node X sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0644",
+        "sentence": "Meeting C is not equal to Meeting B if Alice is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0645",
+        "sentence": "Node X must be adjacent to Node Y unless Charlie sits opposite Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0646",
+        "sentence": "Meeting C is not equal to Alice if Meeting B is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0647",
+        "sentence": "Meeting A is not equal to Node Y if Alice is adjacent to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0648",
+        "sentence": "David must be adjacent to Meeting A unless Bob sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0649",
+        "sentence": "Node X is not equal to Bob if Node Y is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0650",
+        "sentence": "Meeting C is not equal to Meeting A if David is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0651",
+        "sentence": "Meeting C sits opposite Alice unless Meeting B sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0652",
+        "sentence": "Node X is not equal to Node Y if Bob is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0653",
+        "sentence": "Meeting sits opposite Charlie unless David sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0654",
+        "sentence": "Node X must be adjacent to Meeting unless Meeting sits opposite Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0655",
+        "sentence": "Alice must be adjacent to Node X unless Meeting C sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0656",
+        "sentence": "Alice must be adjacent to Bob unless Charlie sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0657",
+        "sentence": "Meeting B must be adjacent to Bob unless Node Y sits opposite Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0658",
+        "sentence": "David is not equal to Meeting if Node X is adjacent to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0659",
+        "sentence": "Meeting must be adjacent to David unless Node Y sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0660",
+        "sentence": "Meeting A sits opposite Node Y unless Bob sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0661",
+        "sentence": "Node Y is not equal to Meeting C if Bob is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0662",
+        "sentence": "Node Y is not equal to Alice if Meeting is adjacent to Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0663",
+        "sentence": "Meeting sits opposite Node X unless Meeting sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0664",
+        "sentence": "Meeting A sits opposite David unless Charlie sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0665",
+        "sentence": "Charlie sits opposite Meeting unless Alice sits next to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0666",
+        "sentence": "Meeting must be adjacent to Node Y unless Meeting sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0667",
+        "sentence": "Alice is not equal to Charlie if Meeting A is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0668",
+        "sentence": "Charlie is not equal to Node Y if David is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0669",
+        "sentence": "Bob is not equal to Meeting A if Node X is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0670",
+        "sentence": "Charlie sits opposite Meeting unless David sits next to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0671",
+        "sentence": "Charlie sits opposite Node X unless Meeting C sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0672",
+        "sentence": "Bob is not equal to Meeting if Meeting is adjacent to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0673",
+        "sentence": "Meeting B is not equal to Meeting C if Alice is adjacent to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0674",
+        "sentence": "Meeting A must be adjacent to Meeting B unless Node Y sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0675",
+        "sentence": "Bob must be adjacent to Node X unless Meeting sits opposite Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0676",
+        "sentence": "Alice sits opposite Node Y unless Charlie sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0677",
+        "sentence": "David is not equal to Node Y if Node X is adjacent to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0678",
+        "sentence": "Charlie is not equal to Meeting B if Node X is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0679",
+        "sentence": "Node Y is not equal to Meeting if David is adjacent to Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0680",
+        "sentence": "Alice sits opposite Node X unless Node Y sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0681",
+        "sentence": "Meeting A is not equal to Meeting B if Node X is adjacent to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0682",
+        "sentence": "Node Y sits opposite Node X unless Meeting A sits next to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0683",
+        "sentence": "Meeting A sits opposite Node Y unless Bob sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0684",
+        "sentence": "Node Y sits opposite Meeting B unless Charlie sits next to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0685",
+        "sentence": "Charlie sits opposite Alice unless Node Y sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0686",
+        "sentence": "Meeting A sits opposite Node X unless Meeting B sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0687",
+        "sentence": "Alice sits opposite Meeting A unless David sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0688",
+        "sentence": "Node Y is not equal to Meeting A if Node X is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0689",
+        "sentence": "Bob must be adjacent to Node X unless Meeting sits opposite Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0690",
+        "sentence": "Node Y sits opposite Alice unless Meeting sits next to Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0691",
+        "sentence": "Meeting A sits opposite Alice unless Meeting C sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0692",
+        "sentence": "Node X must be adjacent to Meeting C unless Bob sits opposite Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0693",
+        "sentence": "Alice must be adjacent to Meeting B unless Node X sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0694",
+        "sentence": "Alice sits opposite Meeting unless Node X sits next to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0695",
+        "sentence": "Bob must be adjacent to Meeting unless Node Y sits opposite Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0696",
+        "sentence": "Node Y is not equal to Bob if Node X is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0697",
+        "sentence": "Alice sits opposite Meeting unless Node X sits next to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0698",
+        "sentence": "Node Y is not equal to Meeting A if Node X is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0699",
+        "sentence": "Bob is not equal to Meeting B if David is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0700",
+        "sentence": "Node Y is not equal to Meeting B if Meeting C is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0701",
+        "sentence": "Meeting A must be adjacent to David unless Node X sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0702",
+        "sentence": "Charlie must be adjacent to Node Y unless Node X sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0703",
+        "sentence": "Node X is not equal to Alice if Charlie is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0704",
+        "sentence": "Meeting must be adjacent to Charlie unless Node Y sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0705",
+        "sentence": "Node Y is not equal to Meeting C if Meeting A is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0706",
+        "sentence": "Alice sits opposite Node Y unless Bob sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0707",
+        "sentence": "Meeting C is not equal to Meeting B if Alice is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0708",
+        "sentence": "Node Y must be adjacent to Meeting C unless Meeting B sits opposite Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0709",
+        "sentence": "Alice must be adjacent to Node Y unless Meeting sits opposite Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0710",
+        "sentence": "Alice must be adjacent to Meeting unless Node X sits opposite Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0711",
+        "sentence": "David sits opposite Charlie unless Bob sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0712",
+        "sentence": "David sits opposite Meeting B unless Charlie sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0713",
+        "sentence": "Node Y is not equal to Charlie if Meeting B is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0714",
+        "sentence": "Meeting must be adjacent to Bob unless Alice sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0715",
+        "sentence": "Node Y is not equal to Bob if Meeting is adjacent to Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0716",
+        "sentence": "Alice sits opposite Meeting B unless Bob sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0717",
+        "sentence": "Node X is not equal to Meeting A if Charlie is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0718",
+        "sentence": "Meeting C sits opposite Meeting A unless Node X sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0719",
+        "sentence": "Node Y must be adjacent to Meeting unless David sits opposite Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0720",
+        "sentence": "Node Y sits opposite Charlie unless Alice sits next to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0721",
+        "sentence": "Bob sits opposite Charlie unless Node Y sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0722",
+        "sentence": "Meeting must be adjacent to Alice unless Bob sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0723",
+        "sentence": "Charlie is not equal to David if Meeting is adjacent to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0724",
+        "sentence": "Bob is not equal to Node Y if Meeting C is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0725",
+        "sentence": "Bob is not equal to David if Meeting B is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0726",
+        "sentence": "David sits opposite Node X unless Bob sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0727",
+        "sentence": "Meeting C must be adjacent to Bob unless Node X sits opposite Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0728",
+        "sentence": "Meeting C sits opposite Bob unless Alice sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0729",
+        "sentence": "Alice is not equal to Node Y if Bob is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0730",
+        "sentence": "Meeting sits opposite David unless Meeting sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0731",
+        "sentence": "Meeting is not equal to Meeting if Node Y is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0732",
+        "sentence": "Charlie sits opposite Alice unless David sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0733",
+        "sentence": "Charlie sits opposite Meeting C unless Bob sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0734",
+        "sentence": "Meeting must be adjacent to Alice unless Meeting sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0735",
+        "sentence": "Charlie is not equal to David if Meeting C is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0736",
+        "sentence": "Meeting C must be adjacent to Meeting B unless Node X sits opposite Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0737",
+        "sentence": "David must be adjacent to Meeting unless Alice sits opposite David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0738",
+        "sentence": "Meeting sits opposite Node Y unless Alice sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0739",
+        "sentence": "Meeting C sits opposite Node X unless David sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0740",
+        "sentence": "Meeting sits opposite Charlie unless Bob sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0741",
+        "sentence": "Alice sits opposite Node X unless Node Y sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0742",
+        "sentence": "David must be adjacent to Meeting unless Charlie sits opposite David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0743",
+        "sentence": "David sits opposite Bob unless Node Y sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0744",
+        "sentence": "Meeting C is not equal to Alice if Node X is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0745",
+        "sentence": "Node Y sits opposite David unless Bob sits next to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0746",
+        "sentence": "Node Y is not equal to Bob if Charlie is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0747",
+        "sentence": "Bob is not equal to David if Meeting C is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0748",
+        "sentence": "Alice sits opposite David unless Meeting sits next to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0749",
+        "sentence": "Meeting sits opposite Node X unless Alice sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0750",
+        "sentence": "Charlie must be adjacent to Meeting C unless Bob sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0751",
+        "sentence": "Meeting B must be adjacent to David unless Charlie sits opposite Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0752",
+        "sentence": "Charlie is not equal to Alice if Bob is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0753",
+        "sentence": "Node X is not equal to Alice if Bob is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0754",
+        "sentence": "Node X is not equal to Charlie if Meeting is adjacent to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0755",
+        "sentence": "David sits opposite Meeting unless Bob sits next to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0756",
+        "sentence": "Meeting is not equal to David if Node Y is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0757",
+        "sentence": "Node Y sits opposite Bob unless David sits next to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0758",
+        "sentence": "Bob sits opposite David unless Meeting sits next to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0759",
+        "sentence": "Meeting must be adjacent to Alice unless Meeting sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0760",
+        "sentence": "Alice sits opposite Node Y unless Charlie sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0761",
+        "sentence": "Charlie is not equal to Meeting if Meeting is adjacent to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0762",
+        "sentence": "Meeting must be adjacent to Charlie unless Meeting sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0763",
+        "sentence": "Node Y is not equal to Meeting if Bob is adjacent to Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0764",
+        "sentence": "Charlie is not equal to David if Node Y is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0765",
+        "sentence": "Node Y must be adjacent to Meeting unless Alice sits opposite Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0766",
+        "sentence": "Meeting is not equal to Meeting if David is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0767",
+        "sentence": "Node X is not equal to Bob if Meeting is adjacent to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0768",
+        "sentence": "Alice sits opposite Bob unless Meeting sits next to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0769",
+        "sentence": "Alice must be adjacent to Meeting unless Meeting sits opposite Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0770",
+        "sentence": "Bob must be adjacent to David unless Node X sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0771",
+        "sentence": "Node X sits opposite Meeting unless Bob sits next to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0772",
+        "sentence": "Charlie is not equal to Meeting A if Bob is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0773",
+        "sentence": "David sits opposite Meeting unless Node X sits next to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0774",
+        "sentence": "Meeting is not equal to Node X if Bob is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0775",
+        "sentence": "Meeting must be adjacent to Meeting unless Alice sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0776",
+        "sentence": "Meeting B is not equal to Bob if Meeting C is adjacent to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0777",
+        "sentence": "Node Y is not equal to David if Charlie is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0778",
+        "sentence": "Charlie sits opposite Node X unless Bob sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0779",
+        "sentence": "Bob must be adjacent to Meeting A unless Charlie sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0780",
+        "sentence": "Meeting must be adjacent to Bob unless David sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0781",
+        "sentence": "Bob sits opposite Node X unless Alice sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0782",
+        "sentence": "Charlie must be adjacent to Node Y unless Node X sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0783",
+        "sentence": "Meeting A is not equal to Node X if Meeting C is adjacent to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0784",
+        "sentence": "Alice sits opposite Node Y unless Meeting sits next to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0785",
+        "sentence": "Alice must be adjacent to Bob unless Node X sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0786",
+        "sentence": "Charlie sits opposite Node X unless David sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0787",
+        "sentence": "Bob must be adjacent to Meeting unless David sits opposite Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0788",
+        "sentence": "Node X is not equal to Meeting if Alice is adjacent to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0789",
+        "sentence": "Charlie sits opposite Node Y unless Meeting sits next to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0790",
+        "sentence": "Node Y must be adjacent to Meeting C unless David sits opposite Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0791",
+        "sentence": "Alice must be adjacent to Bob unless Node X sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0792",
+        "sentence": "Meeting is not equal to Alice if David is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0793",
+        "sentence": "Bob must be adjacent to Node Y unless David sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0794",
+        "sentence": "Alice sits opposite Charlie unless Node Y sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0795",
+        "sentence": "Alice sits opposite Bob unless Meeting sits next to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0796",
+        "sentence": "Charlie sits opposite Meeting B unless Node X sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0797",
+        "sentence": "Bob must be adjacent to Charlie unless Alice sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0798",
+        "sentence": "Meeting B sits opposite David unless Alice sits next to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0799",
+        "sentence": "Bob sits opposite Alice unless Node X sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0800",
+        "sentence": "Node X sits opposite David unless Meeting B sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0801",
+        "sentence": "Bob must be adjacent to Charlie unless David sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0802",
+        "sentence": "Charlie sits opposite Meeting unless Node X sits next to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0803",
+        "sentence": "Meeting is not equal to Node X if Meeting is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0804",
+        "sentence": "Alice is not equal to David if Meeting C is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0805",
+        "sentence": "Node Y is not equal to Alice if Bob is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0806",
+        "sentence": "Node X must be adjacent to Meeting unless Node Y sits opposite Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0807",
+        "sentence": "Meeting B is not equal to Node X if Node Y is adjacent to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0808",
+        "sentence": "Meeting must be adjacent to Charlie unless Alice sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0809",
+        "sentence": "David sits opposite Meeting unless Node X sits next to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0810",
+        "sentence": "Meeting A is not equal to Bob if Meeting B is adjacent to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0811",
+        "sentence": "Meeting sits opposite David unless Meeting sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0812",
+        "sentence": "Node X sits opposite Alice unless Meeting A sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0813",
+        "sentence": "David sits opposite Meeting unless Meeting sits next to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0814",
+        "sentence": "Meeting sits opposite Bob unless Meeting sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0815",
+        "sentence": "Node Y must be adjacent to Meeting A unless Charlie sits opposite Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0816",
+        "sentence": "Bob must be adjacent to Charlie unless Node X sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0817",
+        "sentence": "Node Y sits opposite Meeting unless Node X sits next to Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0818",
+        "sentence": "Meeting sits opposite Node X unless Meeting sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0819",
+        "sentence": "Bob must be adjacent to Node X unless Meeting A sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0820",
+        "sentence": "Meeting is not equal to Node Y if Alice is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0821",
+        "sentence": "Meeting A sits opposite Node Y unless Charlie sits next to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0822",
+        "sentence": "Node X sits opposite Meeting C unless Node Y sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0823",
+        "sentence": "Meeting must be adjacent to Bob unless Meeting sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0824",
+        "sentence": "Node X sits opposite Meeting A unless Alice sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0825",
+        "sentence": "Bob is not equal to David if Alice is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0826",
+        "sentence": "Meeting must be adjacent to Meeting unless Alice sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0827",
+        "sentence": "Alice sits opposite Node Y unless Bob sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0828",
+        "sentence": "Meeting must be adjacent to Node X unless Charlie sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0829",
+        "sentence": "Alice must be adjacent to Bob unless Charlie sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0830",
+        "sentence": "Alice is not equal to Node Y if David is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0831",
+        "sentence": "Node X must be adjacent to David unless Alice sits opposite Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0832",
+        "sentence": "Alice is not equal to Node Y if Bob is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0833",
+        "sentence": "Meeting B sits opposite Node Y unless Alice sits next to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0834",
+        "sentence": "Charlie sits opposite Alice unless Meeting A sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0835",
+        "sentence": "Meeting sits opposite Bob unless Node X sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0836",
+        "sentence": "Bob is not equal to Meeting if Meeting is adjacent to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0837",
+        "sentence": "David is not equal to Node Y if Meeting C is adjacent to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0838",
+        "sentence": "Charlie sits opposite Meeting unless Meeting sits next to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0839",
+        "sentence": "Bob must be adjacent to Charlie unless Meeting sits opposite Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0840",
+        "sentence": "David must be adjacent to Meeting unless Node X sits opposite David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0841",
+        "sentence": "Meeting A must be adjacent to Charlie unless Bob sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0842",
+        "sentence": "Meeting B must be adjacent to Node X unless Alice sits opposite Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0843",
+        "sentence": "Meeting C is not equal to Charlie if Meeting A is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0844",
+        "sentence": "Alice must be adjacent to Meeting C unless Meeting A sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0845",
+        "sentence": "Meeting is not equal to Charlie if Alice is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0846",
+        "sentence": "Bob is not equal to David if Node Y is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0847",
+        "sentence": "Bob sits opposite Node Y unless Node X sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0848",
+        "sentence": "Node Y is not equal to David if Meeting C is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0849",
+        "sentence": "Node Y sits opposite Node X unless Meeting sits next to Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0850",
+        "sentence": "Meeting C is not equal to Node Y if Meeting A is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0851",
+        "sentence": "Charlie is not equal to Alice if David is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0852",
+        "sentence": "Bob must be adjacent to Charlie unless Meeting sits opposite Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0853",
+        "sentence": "Alice must be adjacent to Node Y unless Node X sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0854",
+        "sentence": "Node X sits opposite Bob unless David sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0855",
+        "sentence": "Meeting A is not equal to Bob if Meeting C is adjacent to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0856",
+        "sentence": "Meeting B must be adjacent to Node Y unless Meeting C sits opposite Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0857",
+        "sentence": "Meeting sits opposite Meeting unless Node Y sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0858",
+        "sentence": "Node X must be adjacent to Meeting A unless Charlie sits opposite Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0859",
+        "sentence": "Charlie must be adjacent to Meeting unless Meeting sits opposite Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0860",
+        "sentence": "Meeting B sits opposite Charlie unless David sits next to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0861",
+        "sentence": "Charlie sits opposite Alice unless Node X sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0862",
+        "sentence": "Meeting must be adjacent to Charlie unless Bob sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0863",
+        "sentence": "Meeting must be adjacent to Meeting unless David sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0864",
+        "sentence": "Node X is not equal to David if Meeting is adjacent to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0865",
+        "sentence": "Alice sits opposite David unless Bob sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0866",
+        "sentence": "Node Y is not equal to Bob if Node X is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0867",
+        "sentence": "Meeting is not equal to Node X if Bob is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0868",
+        "sentence": "Node Y sits opposite Bob unless Meeting sits next to Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0869",
+        "sentence": "Charlie is not equal to Alice if Bob is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0870",
+        "sentence": "Meeting is not equal to Node Y if Meeting is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0871",
+        "sentence": "Charlie sits opposite Meeting B unless Meeting A sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0872",
+        "sentence": "Bob is not equal to Node Y if Meeting A is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0873",
+        "sentence": "David is not equal to Meeting C if Meeting B is adjacent to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0874",
+        "sentence": "Alice is not equal to Node Y if Meeting is adjacent to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0875",
+        "sentence": "Alice sits opposite Node X unless Bob sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0876",
+        "sentence": "David sits opposite Bob unless Meeting sits next to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0877",
+        "sentence": "David sits opposite Alice unless Meeting sits next to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0878",
+        "sentence": "Bob sits opposite Charlie unless Node Y sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0879",
+        "sentence": "Bob sits opposite Charlie unless David sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0880",
+        "sentence": "Node X is not equal to Alice if Bob is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0881",
+        "sentence": "Bob must be adjacent to Node X unless Meeting sits opposite Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0882",
+        "sentence": "Meeting C is not equal to Alice if David is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0883",
+        "sentence": "Meeting B is not equal to David if Node X is adjacent to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0884",
+        "sentence": "Node X sits opposite David unless Bob sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0885",
+        "sentence": "Node X is not equal to Alice if Node Y is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0886",
+        "sentence": "Node X must be adjacent to Charlie unless Meeting sits opposite Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0887",
+        "sentence": "David must be adjacent to Meeting unless Alice sits opposite David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0888",
+        "sentence": "Meeting B is not equal to Node Y if Charlie is adjacent to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0889",
+        "sentence": "Alice sits opposite Meeting unless Bob sits next to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0890",
+        "sentence": "Alice must be adjacent to Charlie unless Bob sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0891",
+        "sentence": "Node X is not equal to Meeting B if Meeting A is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0892",
+        "sentence": "Alice must be adjacent to Node X unless Meeting sits opposite Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0893",
+        "sentence": "Alice is not equal to David if Meeting is adjacent to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0894",
+        "sentence": "Bob must be adjacent to Node Y unless Meeting A sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0895",
+        "sentence": "Alice sits opposite Node X unless Meeting A sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0896",
+        "sentence": "Meeting B must be adjacent to Meeting A unless David sits opposite Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0897",
+        "sentence": "Charlie sits opposite Node X unless David sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0898",
+        "sentence": "Meeting must be adjacent to Node X unless Node Y sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0899",
+        "sentence": "Bob must be adjacent to David unless Alice sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0900",
+        "sentence": "Meeting C is not equal to Meeting B if Charlie is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0901",
+        "sentence": "Node Y sits opposite Charlie unless Meeting sits next to Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0902",
+        "sentence": "Bob is not equal to Charlie if Alice is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0903",
+        "sentence": "Charlie sits opposite David unless Meeting A sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0904",
+        "sentence": "Node X is not equal to David if Charlie is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0905",
+        "sentence": "Bob must be adjacent to Alice unless Node Y sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0906",
+        "sentence": "David sits opposite Charlie unless Node X sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0907",
+        "sentence": "Meeting sits opposite Meeting unless David sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0908",
+        "sentence": "Node X sits opposite Node Y unless Meeting C sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0909",
+        "sentence": "Charlie is not equal to Meeting if David is adjacent to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0910",
+        "sentence": "David must be adjacent to Meeting A unless Meeting B sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0911",
+        "sentence": "David is not equal to Meeting B if Node X is adjacent to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0912",
+        "sentence": "Meeting A must be adjacent to Node Y unless Charlie sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0913",
+        "sentence": "Bob is not equal to Meeting if Charlie is adjacent to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0914",
+        "sentence": "David sits opposite Charlie unless Meeting sits next to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0915",
+        "sentence": "Meeting is not equal to Alice if Meeting is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0916",
+        "sentence": "Meeting sits opposite Bob unless Node X sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0917",
+        "sentence": "Alice is not equal to Charlie if David is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0918",
+        "sentence": "Meeting B sits opposite Alice unless Bob sits next to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0919",
+        "sentence": "Meeting is not equal to Alice if David is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0920",
+        "sentence": "Node X is not equal to David if Meeting is adjacent to Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0921",
+        "sentence": "Charlie must be adjacent to David unless Meeting sits opposite Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0922",
+        "sentence": "Charlie must be adjacent to Bob unless Alice sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0923",
+        "sentence": "Meeting B must be adjacent to David unless Meeting C sits opposite Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0924",
+        "sentence": "Node Y sits opposite Meeting unless Charlie sits next to Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0925",
+        "sentence": "Charlie is not equal to Alice if Meeting is adjacent to Charlie.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0926",
+        "sentence": "David sits opposite Meeting C unless Meeting A sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0927",
+        "sentence": "Alice must be adjacent to David unless Bob sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0928",
+        "sentence": "David is not equal to Node X if Meeting is adjacent to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0929",
+        "sentence": "Charlie is not equal to David if Alice is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0930",
+        "sentence": "Bob sits opposite David unless Alice sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0931",
+        "sentence": "Meeting A is not equal to Meeting C if David is adjacent to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0932",
+        "sentence": "Bob must be adjacent to David unless Charlie sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0933",
+        "sentence": "Charlie must be adjacent to Bob unless Node X sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0934",
+        "sentence": "Node Y sits opposite Node X unless Bob sits next to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0935",
+        "sentence": "Meeting must be adjacent to David unless Node X sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0936",
+        "sentence": "Node X sits opposite Bob unless Charlie sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0937",
+        "sentence": "Node Y must be adjacent to Meeting unless Charlie sits opposite Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0938",
+        "sentence": "Node X must be adjacent to Alice unless Meeting sits opposite Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0939",
+        "sentence": "Meeting C must be adjacent to Bob unless David sits opposite Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0940",
+        "sentence": "David must be adjacent to Alice unless Meeting C sits opposite David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0941",
+        "sentence": "Meeting is not equal to Bob if Charlie is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0942",
+        "sentence": "Bob sits opposite Meeting B unless Meeting A sits next to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0943",
+        "sentence": "Bob sits opposite Node X unless Meeting sits next to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0944",
+        "sentence": "Alice is not equal to Bob if Charlie is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0945",
+        "sentence": "David sits opposite Bob unless Meeting sits next to David.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0946",
+        "sentence": "Node X must be adjacent to Node Y unless Meeting B sits opposite Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0947",
+        "sentence": "Node X must be adjacent to Meeting unless Alice sits opposite Node X.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0948",
+        "sentence": "Meeting A must be adjacent to Alice unless Node X sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0949",
+        "sentence": "Alice sits opposite Bob unless Node Y sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0950",
+        "sentence": "Charlie sits opposite Meeting B unless Node Y sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0951",
+        "sentence": "Alice sits opposite Bob unless David sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0952",
+        "sentence": "Node X is not equal to David if Meeting A is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0953",
+        "sentence": "Alice must be adjacent to Bob unless Meeting C sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0954",
+        "sentence": "Meeting must be adjacent to Node Y unless Meeting sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0955",
+        "sentence": "David is not equal to Bob if Node Y is adjacent to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0956",
+        "sentence": "Charlie must be adjacent to Alice unless David sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0957",
+        "sentence": "Node Y must be adjacent to Meeting unless Alice sits opposite Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0958",
+        "sentence": "Meeting A is not equal to Meeting B if David is adjacent to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0959",
+        "sentence": "Meeting C sits opposite Charlie unless Meeting A sits next to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0960",
+        "sentence": "Alice is not equal to Bob if Meeting C is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0961",
+        "sentence": "Node Y sits opposite Alice unless Meeting A sits next to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0962",
+        "sentence": "Meeting C is not equal to Meeting A if Node Y is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0963",
+        "sentence": "Alice is not equal to David if Node X is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0964",
+        "sentence": "Meeting A must be adjacent to Node X unless Bob sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0965",
+        "sentence": "Alice must be adjacent to Charlie unless Node Y sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0966",
+        "sentence": "Node Y must be adjacent to Node X unless Alice sits opposite Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0967",
+        "sentence": "Meeting A must be adjacent to David unless Node Y sits opposite Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0968",
+        "sentence": "Meeting B sits opposite Node Y unless Alice sits next to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0969",
+        "sentence": "Bob sits opposite Meeting unless Node Y sits next to Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0970",
+        "sentence": "Alice must be adjacent to Node Y unless Charlie sits opposite Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0971",
+        "sentence": "Alice sits opposite Node X unless Node Y sits next to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0972",
+        "sentence": "Meeting sits opposite Node X unless Alice sits next to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0973",
+        "sentence": "Alice is not equal to David if Charlie is adjacent to Alice.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0974",
+        "sentence": "Node X sits opposite Node Y unless Bob sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0975",
+        "sentence": "Bob is not equal to Alice if Charlie is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0976",
+        "sentence": "Bob is not equal to Charlie if Meeting B is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0977",
+        "sentence": "Charlie sits opposite David unless Meeting C sits next to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0978",
+        "sentence": "Bob is not equal to Meeting B if Charlie is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0979",
+        "sentence": "Bob is not equal to Charlie if Node Y is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0980",
+        "sentence": "Node X sits opposite David unless Meeting A sits next to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0981",
+        "sentence": "Meeting B must be adjacent to Charlie unless Bob sits opposite Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0982",
+        "sentence": "David sits opposite Meeting A unless Charlie sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0983",
+        "sentence": "Charlie must be adjacent to Node X unless David sits opposite Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0984",
+        "sentence": "Node X must be adjacent to Alice unless Bob sits opposite Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0985",
+        "sentence": "Meeting B sits opposite Node Y unless Bob sits next to Meeting B.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0986",
+        "sentence": "Bob must be adjacent to Node X unless Meeting sits opposite Bob.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0987",
+        "sentence": "Alice is not equal to Node X if Meeting is adjacent to Alice.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0988",
+        "sentence": "David sits opposite Alice unless Meeting C sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0989",
+        "sentence": "Bob must be adjacent to Alice unless Node X sits opposite Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0990",
+        "sentence": "Node Y must be adjacent to Node X unless Meeting sits opposite Node Y.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0991",
+        "sentence": "Meeting C is not equal to Alice if Node Y is adjacent to Meeting C.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0992",
+        "sentence": "Bob is not equal to Node X if Charlie is adjacent to Bob.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0993",
+        "sentence": "Meeting A is not equal to Bob if Alice is adjacent to Meeting A.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0994",
+        "sentence": "Meeting is not equal to Charlie if Node Y is adjacent to Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0995",
+        "sentence": "Node X is not equal to Meeting B if Meeting C is adjacent to Node X.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0996",
+        "sentence": "Node Y is not equal to Bob if Meeting B is adjacent to Node Y.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0997",
+        "sentence": "Charlie is not equal to Bob if David is adjacent to Charlie.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-0998",
+        "sentence": "Meeting must be adjacent to Charlie unless Node X sits opposite Meeting.",
+        "has_ambiguity": true
+    },
+    {
+        "problem_id": "ADV-LOGIC-0999",
+        "sentence": "David sits opposite Node X unless Charlie sits next to David.",
+        "has_ambiguity": false
+    },
+    {
+        "problem_id": "ADV-LOGIC-1000",
+        "sentence": "Meeting is not equal to Charlie if Meeting is adjacent to Meeting.",
+        "has_ambiguity": true
+    }
+]

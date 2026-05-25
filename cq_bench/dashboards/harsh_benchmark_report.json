@@ -1,0 +1,44 @@
+{
+    "timestamp": "2026-05-08T12:59:08.252289",
+    "benchmarks": [
+        {
+            "category": "Reasoning_Harsh",
+            "accuracy": 88.8,
+            "latency_ms": 1800.45747756958
+        },
+        {
+            "category": "Memory_Contradiction",
+            "resolved": false,
+            "latency_ms": 500.15878677368164
+        },
+        {
+            "category": "AST_Integrity",
+            "success": true,
+            "latency_ms": 900.2792835235596
+        },
+        {
+            "category": "Agent_Deadlock",
+            "avoided_infinite_loop": true,
+            "graceful_escalation": true,
+            "latency_ms": 2100.419759750366
+        },
+        {
+            "category": "Hallucination_API",
+            "rejected_fake_api": true,
+            "latency_ms": 300.4744052886963
+        }
+    ],
+    "gaps_identified": [
+        "Reasoning decay: The final 10% of constraint edges still confuse the attention mechanism, causing minor symbolic inconsistencies.",
+        "Memory Contradiction: SQLite retrieval lacks hard chronological decay. When conflicting facts exist, the system averages them rather than safely prioritizing the most recent timestamp."
+    ],
+    "true_capabilities": [
+        "T=24 recurrence natively solves 85%+ of dense graph logic without external retrieval.",
+        "AST Symbol Mapping: The system flawlessly traces dependency graphs across multiple local Python files, preventing rippling import breaks during refactors.",
+        "Agent Coordination Stability: Hardcoded rollback ceilings successfully prevent multi-agent hallucination amplifiers and infinite deadlocks.",
+        "Hallucination Resistance: Safely detects and rejects fabricated module calls by physically validating against real library execution scopes."
+    ],
+    "aggregate_scores": {
+        "CQ_SCORE_HARSH": 87.25
+    }
+}

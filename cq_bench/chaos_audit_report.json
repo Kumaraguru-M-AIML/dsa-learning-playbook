@@ -1,0 +1,20 @@
+{
+    "chaos_timestamp": 1778246277.508298,
+    "injections": [
+        {
+            "vector": "Memory Poisoning",
+            "resilient": true,
+            "error_summary": null
+        },
+        {
+            "vector": "Unsolvable Constraints",
+            "resilient": true,
+            "error_summary": null
+        },
+        {
+            "vector": "Poisoned Telemetry",
+            "resilient": true,
+            "error_summary": null
+        }
+    ]
+}

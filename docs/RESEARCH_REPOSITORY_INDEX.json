@@ -1,0 +1,884 @@
+﻿[
+    {
+        "id":  "A-R007-Multi-Agent-Study-Assistant",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Agents_And_Orchestrators\\A-R007-Multi-Agent-Study-Assistant",
+        "summary":  "# ðŸ“š Multi-Agent AI Study Assistant A powerful, personalized learning platform powered by multiple specialized AI agents. Get custom learning roadmaps, practice quizzes, AI tutoring, and RAG-powered...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "artvandelay-agentic-deepresearch-hacker-news",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Agents_And_Orchestrators\\artvandelay-agentic-deepresearch-hacker-news",
+        "summary":  "# ðŸ”¬ Agentic Deep Research on Hacker News **AI-powered research on 19 years of HackerNews discussions (2006-2025)** Ask a question. Get a comprehensive research report. The AI decides everythingâ€”w...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "DevHammad0-Deep_Research_Agent",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Agents_And_Orchestrators\\DevHammad0-Deep_Research_Agent",
+        "summary":  "# Deep Research Agent A sophisticated terminal-based Deep Research Agent built with OpenAI AI Agents SDK, powered by Google\u0027s Gemini API and enhanced with Rich CLI formatting. This agent performs thor...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "KSDaemon-ralphy",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Agents_And_Orchestrators\\KSDaemon-ralphy",
+        "summary":  "# ralphy An autonomous AI coding agent loop with a terminal admin dashboard. Originally based on [snarktank/ralph](https://github.com/snarktank/ralph) â€” extended with git worktree support, session m...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "kyegomez-swarms",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Agents_And_Orchestrators\\kyegomez-swarms",
+        "summary":  "# Server-Bot [View on Docker Hub](https://hub.docker.com/r/allenrkeen/server-bot) ### Discord bot to remotely monitor and control a docker based server. Using the docker socket. Setup is pretty straig...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "meesp123-claude-code-agent-team-debate",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Agents_And_Orchestrators\\meesp123-claude-code-agent-team-debate",
+        "summary":  "# claude-code-agent-team-debate Multi-AI structured debate skill for [Claude Code](https://claude.com/claude-code). Orchestrates a team of Claude Code agents (advocate, critic, proxy) to debate any te...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "michaelshimeles-ralphy",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Agents_And_Orchestrators\\michaelshimeles-ralphy",
+        "summary":  "# Ralphy **[Join our Discord](https://discord.gg/SZZV74mCuV)** - Questions? Want to contribute? Join the community! Autonomous AI coding loop. Runs AI agents on tasks until done. ## Install ```bash np...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "mindfold-ai-Trellis",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Agents_And_Orchestrators\\mindfold-ai-Trellis",
+        "summary":  "# Trellis \u003c!-- ðŸ–¼ï¸ [IMAGE] Banner: å“ç‰Œæ¨ªå¹…å›¾ï¼ŒåŒ…å« Logo + \"Structure. Guide. Ship.\" æ ‡è¯­      å°ºå¯¸å»ºè®®: 1280x640 æˆ– 1200x300      æ–‡ä»¶: assets/banner.png **Structure. Guide. Ship...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "null-create-deep-research-agent",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Agents_And_Orchestrators\\null-create-deep-research-agent",
+        "summary":  "# Data Directory Runtime and test data for the research assistant. ## Subdirectories | Directory | Purpose | | `benchmarks/` | Benchmark results (`.jsonl` files produced by `scripts/benchmark.py` / `r...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "openai-swarm",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Agents_And_Orchestrators\\openai-swarm",
+        "summary":  "# Swarm (experimental, educational) \u003e [!IMPORTANT] \u003e Swarm is now replaced by the [OpenAI Agents SDK](https://github.com/openai/openai-agents-python), which is a production-ready evolution of Swarm. T...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "Priivacy-ai-spec-kitty",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Agents_And_Orchestrators\\Priivacy-ai-spec-kitty",
+        "summary":  "# Documentation Command Templates Prompt files for `/spec-kitty.*` slash commands specific to the documentation mission. Each file guides the agent through one workflow step in the documentation lifec...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "razamwende-repo-analyzer-agent",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Agents_And_Orchestrators\\razamwende-repo-analyzer-agent",
+        "summary":  "# repo-analyzer-agent Un agent IA qui clone n\u0027importe quel repository GitHub/GitLab, analyse sa stack technique et sa qualitÃ© de code, puis gÃ©nÃ¨re un rapport Markdown structurÃ© â€” en une seule co...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "reposwarm-reposwarm",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Agents_And_Orchestrators\\reposwarm-reposwarm",
+        "summary":  "# Repository Analysis Prompts This directory contains specialized prompt sets for analyzing different types of repositories. The system automatically selects the appropriate prompt set based on reposi...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "strcoder4007-browser-agent",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Agents_And_Orchestrators\\strcoder4007-browser-agent",
+        "summary":  "This project builds upon the foundation of the [browser-use](https://github.com/browser-use/browser-use), which is designed to make websites accessible for AI agents. We would like to officially thank...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "undomestic-georgebeadle691-agent-CE",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Agents_And_Orchestrators\\undomestic-georgebeadle691-agent-CE",
+        "summary":  "# Anthropic Computer Use Evaluation (Concise) Runs Claude\u0027s Computer Use agent headful under Playwright/Chrome and normalizes outputs to the shared schema used by Notte/Browser Use. ## What it does - ...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "VRSEN-OpenSwarm",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Agents_And_Orchestrators\\VRSEN-OpenSwarm",
+        "summary":  "# Agency Swarm Claude Code Sub-Agents Specialized agents for building production-ready Agency Swarm v1.0.0 multi-agent systems using a phased, test-driven workflow. ## Agents - **api-researcher**: Res...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "youseai-openai-swarm-node",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Agents_And_Orchestrators\\youseai-openai-swarm-node",
+        "summary":  "# Swarm.js (Node.js Implementation of OpenAI Swarm) **Swarm.js** is a Node.js implementation of OpenAIâ€™s experimental Swarm framework. This SDK allows developers to orchestrate multi-agent systems u...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "affaan-m-everything-claude-code",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Claude_Ecosystem\\affaan-m-everything-claude-code",
+        "summary":  "### Plugin Manifest Gotchas If you plan to edit `.claude-plugin/plugin.json`, be aware that the Claude plugin validator enforces several **undocumented but strict constraints** that can cause installs...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "AgriciDaniel-claude-obsidian",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Claude_Ecosystem\\AgriciDaniel-claude-obsidian",
+        "summary":  "# claude-obsidian Hooks Plugin hooks for the claude-obsidian wiki vault. All hooks are defined in `hooks.json`. ## Events | Event | Type | Purpose | | `SessionStart` | command + prompt | Loads `wiki/h...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "AgriciDaniel-claude-youtube",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Claude_Ecosystem\\AgriciDaniel-claude-youtube",
+        "summary":  "# claude-youtube \u003e **Status: Beta** -- Actively developed. Core functionality is complete and tested. Breaking changes may occur before v1.0. A comprehensive [Claude Code](https://claude.com/claude-co...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "anthropics-claude-code-security-review",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Claude_Ecosystem\\anthropics-claude-code-security-review",
+        "summary":  "# SAST Evaluation Tool This directory contains a tool for evaluating the SAST (Static Application Security Testing) tool on individual GitHub pull requests. ## Overview The evaluation tool allows you ...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "awesome-claude-code-main",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Claude_Ecosystem\\awesome-claude-code-main",
+        "summary":  "# Design Review Workflow This directory contains templates and examples for implementing an automated design review system that provides feedback on front-end code changes with design implications. Th...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "breddin-claude-flow-baseline",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Claude_Ecosystem\\breddin-claude-flow-baseline",
+        "summary":  "# Agents Commands Commands for agents operations in Claude Flow. ## Available Commands - [agent-types](./agent-types.md) - [agent-capabilities](./agent-capabilities.md) - [agent-coordination](./agent-...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "claude-code-best-practice-main",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Claude_Ecosystem\\claude-code-best-practice-main",
+        "summary":  "# Day 0 â€” Claude Code Setup This guide walks you through installing Claude Code on your machine and authenticating so you can start using it. ## Step 1: Install Claude Code Choose your operating sys...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "claude-code-best-practices-main",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Claude_Ecosystem\\claude-code-best-practices-main",
+        "summary":  "# ðŸ§  Claude Code Best Practices A practical guide to using Claude Code, Anthropicâ€™s agentic coding assistant, effectively in real-world development workflows. This repo distills best practices, pa...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "claude-code-main",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Claude_Ecosystem\\claude-code-main",
+        "summary":  "# Agent SDK Development Plugin A comprehensive plugin for creating and verifying Claude Agent SDK applications in Python and TypeScript. ## Overview The Agent SDK Development Plugin streamlines the en...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "claude-mem",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Claude_Ecosystem\\claude-mem",
+        "summary":  "# Claude-Mem Cursor Hooks Integration \u003e **Persistent AI Memory for Cursor - Free Options Available** Give your Cursor AI persistent memory across sessions. Your agent remembers what it worked on, the ...",
+        "primary_lang":  "NodeJS/JS",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "claude-peers-mcp-main",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Claude_Ecosystem\\claude-peers-mcp-main",
+        "summary":  "# claude-peers Let your Claude Code instances find each other and talk. When you\u0027re running 5 sessions across different projects, any Claude can discover the others and send messages that arrive insta...",
+        "primary_lang":  "NodeJS/JS",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "digitalsamba-claude-code-video-toolkit",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Claude_Ecosystem\\digitalsamba-claude-code-video-toolkit",
+        "summary":  "# RunPod ProPainter Docker Image Serverless GPU handler for video watermark removal using ProPainter AI inpainting. ## Quick Start ### Option A: Use Pre-built Public Image (Recommended) A public image...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "hex-claude-council",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Claude_Ecosystem\\hex-claude-council",
+        "summary":  "# claude-council A Claude Code plugin that consults multiple AI coding agents in parallel and shows you their answers side-by-side. Useful when one model\u0027s bias could mislead you and the right call de...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "JacklineMK-claude-tts",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Claude_Ecosystem\\JacklineMK-claude-tts",
+        "summary":  "# ðŸŽ¤ claude-tts - Simple Text-to-Speech for Everyone ## ðŸ”Š What is claude-tts? claude-tts is a tool that turns written text into spoken words. It works as a plugin for Claude Code, a platform peop...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "ybouhjira-claude-code-tts",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Claude_Ecosystem\\ybouhjira-claude-code-tts",
+        "summary":  "# Claude Code TTS Plugin A Text-to-Speech MCP server plugin for Claude Code that converts text to speech using OpenAI\u0027s TTS API. Get audio feedback from Claude as you work! ## Features - **Determinist...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "apify-crawlee",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Deep_Research_Crawlers\\apify-crawlee",
+        "summary":  "# `@crawlee/basic` Provides a simple framework for parallel crawling of web pages. The URLs to crawl are fed either from a static list of URLs or from a dynamic queue of URLs enabling recursive crawli...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "aryaniiil-kuki-search",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Deep_Research_Crawlers\\aryaniiil-kuki-search",
+        "summary":  "# ðŸŒ¿ kuki research kuki search is a fast and concurent reserch engine for deep web analysis and synthesis. it uses duckduckgo for broad search and crawl4ai for markdown content. ðŸŒ¿ ## ðŸŒ¿ feature...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "assafelovic-gpt-researcher",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Deep_Research_Crawlers\\assafelovic-gpt-researcher",
+        "summary":  "# Deep Research âœ¨ NEW âœ¨ With the latest \"Deep Research\" trend in the AI community, we\u0027re excited to implement our own Open source deep research capability! Introducing GPT Researcher\u0027s Deep Resear...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "autoresearch",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Deep_Research_Crawlers\\autoresearch",
+        "summary":  "# autoresearch *One day, frontier AI research used to be done by meat computers in between eating, sleeping, having other fun, and synchronizing once in a while using sound wave interconnect in the ri...",
+        "primary_lang":  "Python",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "efficient-deep-research-efficient-deep-research",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Deep_Research_Crawlers\\efficient-deep-research-efficient-deep-research",
+        "summary":  "# An Open and Reproducible Deep Research Agent for Long-Form Question Answering This repository hosts a deep research system submitted to the MMU-RAG competition at NeurIPS 2025. The system is capable...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "firecrawl-firecrawl",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Deep_Research_Crawlers\\firecrawl-firecrawl",
+        "summary":  "# `@napi-rs/package-template` \u003e Template project for writing node packages with napi-rs. # Usage 1. Click **Use this template**. 2. **Clone** your project. 3. Run `yarn install` to install dependencie...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "firecrawl-firecrawl-mcp-server",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Deep_Research_Crawlers\\firecrawl-firecrawl-mcp-server",
+        "summary":  "\u003cdiv align=\"center\"\u003e   \u003ca name=\"readme-top\"\u003e\u003c/a\u003e     src=\"https://raw.githubusercontent.com/firecrawl/firecrawl-mcp-server/main/img/fire.png\"     height=\"140\" \u003c/div\u003e # Firecrawl MCP Server A Model Con...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "langchain-ai-open_deep_research",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Deep_Research_Crawlers\\langchain-ai-open_deep_research",
+        "summary":  "# ðŸ”¬ Open Deep Research Deep research has broken out as one of the most popular agent applications. This is a simple, configurable, fully open source deep research agent that works across many model...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "Qianlitp-crawlergo",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Deep_Research_Crawlers\\Qianlitp-crawlergo",
+        "summary":  "# crawlergo \u003e A powerful browser crawler for web vulnerability scanners English Document | [ä¸­æ–‡æ–‡æ¡£](./README_zh-cn.md) crawlergo is a browser crawler that uses `chrome headless` mode for URL col...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "RUC-NLPIR-Search-o1",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Deep_Research_Crawlers\\RUC-NLPIR-Search-o1",
+        "summary":  "\u003ch1 align=\"center\"\u003e ðŸ” Search-o1: Agentic Search-Enhanced\u003c/br\u003e Large Reasoning Models\u003c/a\u003e\u003c/h1\u003e \u003cdiv align=\"center\"\u003e  \u003c/div\u003e",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "RUC-NLPIR-WebThinker",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Deep_Research_Crawlers\\RUC-NLPIR-WebThinker",
+        "summary":  "\u003ch1 align=\"center\"\u003e ðŸŒ WebThinker: Empowering Large Reasoning Models with Deep Research Capability\u003c/a\u003e\u003c/h1\u003e \u003cdiv align=\"center\"\u003e  \u003c/div\u003e \u003cp align=\"center\"\u003e",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "ScrapeGraphAI-Scrapegraph-ai",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Deep_Research_Crawlers\\ScrapeGraphAI-Scrapegraph-ai",
+        "summary":  "# Code Generator Graph Example This example demonstrates how to use Scrapegraph-ai to generate code based on specifications and requirements. ## Features - Code generation from specifications - Multip...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "tholian-network-stealth",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Deep_Research_Crawlers\\tholian-network-stealth",
+        "summary":  "No summary found.",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "unclecode-crawl4ai",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Deep_Research_Crawlers\\unclecode-crawl4ai",
+        "summary":  "# Crawl4AI Docker Guide ðŸ³ ## Table of Contents - [Prerequisites](#prerequisites) - [Installation](#installation)   - [Option 1: Using Pre-built Docker Hub Images (Recommended)](#option-1-using-pre-...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "webrecorder-browsertrix",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Deep_Research_Crawlers\\webrecorder-browsertrix",
+        "summary":  "### Install Most current instructions to install will always be [here](https://docs.browsertrix.com/deploy/remote/)",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "aws-samples-sample-ai-tutor",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Learning_And_Tutors\\aws-samples-sample-ai-tutor",
+        "summary":  "# Overview This project creates an AI Tutor that allows users upload a video, which is then divided into bite-sized chapters. For each chapter, a knowledge check quiz is created following Bloom\u0027s taxo...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "BlackyDrum-ai-tutor",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Learning_And_Tutors\\BlackyDrum-ai-tutor",
+        "summary":  "\u003cdiv align=\"center\"\u003e \u003cp\u003e \u003c/p\u003e \u003cp\u003e \u003c/p\u003e \u003cp\u003e \u003c/p\u003e \u003c/div\u003e",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "CipherCraze-SpeakGenie-AI-Tutor",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Learning_And_Tutors\\CipherCraze-SpeakGenie-AI-Tutor",
+        "summary":  "# ðŸ§žâ€â™‚ï¸ Speak Genie - AI Voice Tutor \u003cdiv align=\"center\"\u003e **ðŸŽ¤ Your Intelligent Voice-Powered English Learning Companion** [ðŸš€ Live Demo](https://speak-genie-ai-tutor.vercel.app/) â€¢ [ðŸ“...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "codeXsidd-Study-Track",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Learning_And_Tutors\\codeXsidd-Study-Track",
+        "summary":  "# StudyTrack - Premium AI-Powered Student Productivity Workspace ðŸš€ StudyTrack is an all-in-one, ultra-premium personal student workspace designed to transform academic chaos into peak productivity....",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "hari7261-AI-Tutor",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Learning_And_Tutors\\hari7261-AI-Tutor",
+        "summary":  "# ðŸŽ“ AI Tutor - Local AI Study Buddy A powerful, privacy-focused AI tutoring application that runs entirely on your local machine. Get personalized explanations and generate custom quizzes across mu...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "HKUDS-DeepTutor",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Learning_And_Tutors\\HKUDS-DeepTutor",
+        "summary":  "# nanobot Skills This directory contains built-in skills that extend nanobot\u0027s capabilities. ## Skill Format Each skill is a directory containing a `SKILL.md` file with: - YAML frontmatter (name, desc...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "koukekoukej-glitch-feynman-tutor",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Learning_And_Tutors\\koukekoukej-glitch-feynman-tutor",
+        "summary":  "# è´¹æ›¼å¯¼å¸ˆ åŸºäºŽè´¹æ›¼å­¦ä¹ æ³•çš„ AI æ•™å­¦ Skillã€‚é€šè¿‡è§’è‰²åè½¬è®©ç”¨æˆ·ä¸»åŠ¨è®²è§£æ¦‚å¿µï¼Œåœ¨è®²ä¸æ¸…æ¥šçš„åœ°æ–¹å®šä½çŸ¥è¯†ç›²ç‚¹ï¼Œåœ¨è®¤çŸ¥è¾¹ç•Œä¸Šç²¾å‡†æ–½æ•™ã€‚ é€‚ç”¨äºŽ [Clau...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "mitodl-open-learning-ai-tutor",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Learning_And_Tutors\\mitodl-open-learning-ai-tutor",
+        "summary":  "# Open_Learning_AI_Tutor Backend code for MIT open learning chatbot that helps students solve course problems. Demo at: https://learn-ai.ol.mit.edu/. Paper for pedagogical engine: https://arxiv.org/pd...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "practical-tutorials-project-based-learning",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Learning_And_Tutors\\practical-tutorials-project-based-learning",
+        "summary":  "# Project Based Learning A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary progra...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "study8677-antigravity-workspace-template",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Learning_And_Tutors\\study8677-antigravity-workspace-template",
+        "summary":  "# Antigravity CLI Lightweight CLI that injects the **Artifact-First cognitive architecture** into any project directory. ```bash ag init \u003ctarget_dir\u003e",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "studyield-studyield",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Learning_And_Tutors\\studyield-studyield",
+        "summary":  "# React + TypeScript + Vite This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. Currently, two official plugins are available: - [@vitejs/plugin-react](...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "zijinz456-OpenTutor",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Learning_And_Tutors\\zijinz456-OpenTutor",
+        "summary":  "\u003cdiv align=\"center\"\u003e # OpenTutor **The first block-based adaptive learning workspace that runs locally.** Drop in a PDF. Get an AI tutor that actually adapts to how *you* learn.",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "ankimcp-anki-mcp-server",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\ankimcp-anki-mcp-server",
+        "summary":  "# docs/ This directory holds supplementary documentation and sample artifacts. The canonical project README is at the repo root. ## Contents - [`reviewer-setup.md`](./reviewer-setup.md) â€” step-by-st...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "browser-use-browser-harness",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\browser-use-browser-harness",
+        "summary":  "# shopify-admin Browser-harness patterns for `admin.shopify.com` and embedded Shopify apps. ## Files in this folder - `embedded-apps.md` â€” every Shopify app runs in an iframe; how to target it - `po...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "browser-use-browser-use",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\browser-use-browser-use",
+        "summary":  "# Browser Actor Browser Actor is a web automation library built on CDP (Chrome DevTools Protocol) that provides low-level browser automation capabilities within the browser-use ecosystem. ## Usage ###...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "code-review-graph-main",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\code-review-graph-main",
+        "summary":  "# Beads - AI-Native Issue Tracking Welcome to Beads! This repository uses **Beads** for issue tracking - a modern, AI-native tool designed to live directly in your codebase alongside your code. ## Wha...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "conqueror-cli-anything",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\conqueror-cli-anything",
+        "summary":  "# CLI-Anything Extension for Pi Coding Agent This directory contains the Pi Coding Agent extension for CLI-Anything, enabling AI agents to build powerful, stateful CLI interfaces for any GUI applicati...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "D4Vinci-Scrapling",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\D4Vinci-Scrapling",
+        "summary":  "# Scrapling Examples These examples scrape [quotes.toscrape.com](https://quotes.toscrape.com) - a safe, purpose-built scraping sandbox - and demonstrate every tool available in Scrapling, from plain H...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "EviAmarates-fresta-edge",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\EviAmarates-fresta-edge",
+        "summary":  "# EDGE â€” Domain Evaluation Lens Generator \u003e Built on the [Fresta Lens Framework](./FRESTA.md) â€” a unified structural theory of evaluation, entropy, and system coherence. **EDGE** generates structu...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "FiyinfoluwaDav-Github-repo-finder",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\FiyinfoluwaDav-Github-repo-finder",
+        "summary":  "# GitHub Repo Finder Helps developers and learners easily discover relevant open-source projects. It simplifies GitHub search by allowing natural queries, filters results by stars, activity, and langu...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "garrytan-gstack",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\garrytan-gstack",
+        "summary":  "# gstack \u003e \"I don\u0027t think I\u0027ve typed like a line of code probably since December, basically, which is an extremely large change.\" â€” [Andrej Karpathy](https://fortune.com/2026/03/21/andrej-karpathy-o...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "graphify",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\graphify",
+        "summary":  "\u003cp align=\"center\"\u003e \u003c/p\u003e \u003cp align=\"center\"\u003e   ðŸ‡ºðŸ‡¸ \u003ca href=\"README.md\"\u003eEnglish\u003c/a\u003e | ðŸ‡¨ðŸ‡³ \u003ca href=\"docs/translations/README.zh-CN.md\"\u003eç®€ä½“ä¸­æ–‡\u003c/a\u003e | ðŸ‡¯ðŸ‡µ \u003ca href=\"docs/translations/READ...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "gsd-build-get-shit-done",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\gsd-build-get-shit-done",
+        "summary":  "# Changeset Fragments This directory holds **per-PR CHANGELOG fragments**. Every PR with user-facing changes drops one (or more) `\u003crandom-name\u003e.md` files here describing its CHANGELOG entry. Fragments...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "HACKE-RC-awesome-reversing",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\HACKE-RC-awesome-reversing",
+        "summary":  "# Reverse Engineering Resources âš¡ Highest quality resources to learn Reverse Engineering from start to end! [Roadmap](https://wiki.bi0s.in/reversing/roadmap) # Table of contents - [Assembly](#assemb...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "hancengiz-youtube-transcript-mcp",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\hancengiz-youtube-transcript-mcp",
+        "summary":  "# YouTube Transcript Library A pure TypeScript library for fetching YouTube video transcripts. This library is designed to be used as a standalone package or integrated into other projects. ## Feature...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "hkuds-cli-anything",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\hkuds-cli-anything",
+        "summary":  "# CLI-Anything Extension for Pi Coding Agent This directory contains the Pi Coding Agent extension for CLI-Anything, enabling AI agents to build powerful, stateful CLI interfaces for any GUI applicati...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "Legorobotdude-yt-analysis-mcp",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\Legorobotdude-yt-analysis-mcp",
+        "summary":  "# yt-analysis-mcp An MCP server that analyzes YouTube videos using Google\u0027s Gemini API. Pass in a YouTube URL to get summaries or ask questions about the video content. ## Features - **Summarize video...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "llm.c-master",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\llm.c-master",
+        "summary":  "# dev/cuda This directory is scratch space for developing various versions of the needed CUDA kernels. Each file develops a kernel, and usually multiple versions of that kernel that could have differe...",
+        "primary_lang":  "Python",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "llmwiki",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\llmwiki",
+        "summary":  "# LLM Wiki Open-source implementation of [Karpathy\u0027s LLM Wiki](https://x.com/karpathy/status/2039805659525644595) ([spec](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)). I built t...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "nanoGPT",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\nanoGPT",
+        "summary":  "## openwebtext dataset after running `prepare.py` (preprocess) we get: - train.bin is ~17GB, val.bin ~8.5MB - train has ~9B tokens (9,035,582,198) - val has ~4M tokens (4,434,897) this came from 8,013...",
+        "primary_lang":  "Python",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "nimakian-github-unfollower",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\nimakian-github-unfollower",
+        "summary":  "# ðŸ•µðŸ» GitHub Unfollower Detector A simple tool to detect GitHub users who **don\u0027t follow you back** and those **you don\u0027t follow back**.   Easily analyze your followers and following lists. ðŸ”— ...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "nn-zero-to-hero",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\nn-zero-to-hero",
+        "summary":  "## Neural Networks: Zero to Hero A course on neural networks that starts all the way at the basics. The course is a series of YouTube videos where we code and train neural networks together. The Jupyt...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "openai-openai-node",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\openai-openai-node",
+        "summary":  "# openai-bun-test To install dependencies: ```bash bun install To run: ```bash bun run index.ts",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "OpenMythos",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\OpenMythos",
+        "summary":  "# OpenMythos \u003cp align=\"left\"\u003e   \u003ca href=\"https://pypi.org/project/open-mythos/\" target=\"_blank\"\u003e     \u003cpicture\u003e       \u003csource srcset=\"https://img.shields.io/pypi/v/open-mythos?style=for-the-badge\u0026color...",
+        "primary_lang":  "Python",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "OpenSpace-main",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\OpenSpace-main",
+        "summary":  "# OpenSpace Frontend A dashboard frontend for the OpenSpace, providing skill browsing, lineage visualization, and workflow inspection. ## Prerequisites - **Node.js â‰¥ 20** ## First-time Setup 1. **Co...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "playwright",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\playwright",
+        "summary":  "# Tool for printing .exe and .dll dependencies on Windows This is similar to `ldd` on linux in that loads specified files and tries to resolve all DLLs referenced by it, printing in the formar `\u003clib n...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "ReversingID-Awesome-Reversing",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\ReversingID-Awesome-Reversing",
+        "summary":  "(n) Art and science of **breaking** something down, **extracting** design and mechanics behind, and **manipulating** into its basic principle. Reversing is the process of, partially or fully, recoveri...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "reviewdog-reviewdog",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\reviewdog-reviewdog",
+        "summary":  "## .git_hooks - Example reviewdog integration with git hooks ## Setup ```shell git config core.hooksPath .git_hooks ## [prepare-commit-msg](prepare-commit-msg)",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "ruvnet-ruflo",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\ruvnet-ruflo",
+        "summary":  "# .agents Directory This directory contains agent configuration and skills for OpenAI Codex CLI. ## Structure .agents/   config.toml     # Main configuration file   skills/         # Skill definitions...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "superpowers-main",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\superpowers-main",
+        "summary":  "# Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses...",
+        "primary_lang":  "NodeJS/JS",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "tylerha97-awesome-reversing",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\tylerha97-awesome-reversing",
+        "summary":  "# awesome-reversing     A curated list of awesome reversing resources    - [Awesome Reversing](#awesome-reversing)     - [Books](#books)     - [Courses](#courses)     - [Channels](#channels)     - [Pr...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "wanghong5233-ScholarMind",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\wanghong5233-ScholarMind",
+        "summary":  "# Alembic æ•°æ®åº“è¿ç§»æŒ‡å— æœ¬æ–‡æ¡£ä¸º ScholarMind é¡¹ç›®æä¾›äº†ä½¿ç”¨ Alembic ç®¡ç†æ•°æ®åº“æ¨¡å¼è¿ç§»çš„æ“ä½œè¯´æ˜Žã€‚ ## ç®€ä»‹ Alembic æ˜¯ä¸€ä¸ªä¸“ä¸º SQLAlchemy è®¾è®¡çš„æ•°æ®åº“è¿ç...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "Williamjacobsen-Analyse-Github-Repositories",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\Williamjacobsen-Analyse-Github-Repositories",
+        "summary":  "# Github Repository Codebase Analyzer A high-performance Go tool that crawls GitHub repositories, filters files by extension, analyzes line counts, and saves the results as JSON â€” with concurrency u...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "yh2072-edgameclaw",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Miscellaneous\\yh2072-edgameclaw",
+        "summary":  "\u003cp align=\"center\"\u003e \u003c/p\u003e \u003cp align=\"center\"\u003e \u003c/p\u003e \u003cp align=\"center\"\u003e   \u003ca href=\"#english\"\u003e\u003cstrong\u003eEnglish\u003c/strong\u003e\u003c/a\u003e \u0026nbsp;Â·\u0026nbsp;",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "alexliap-deep_think",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Reasoning_And_Systems\\alexliap-deep_think",
+        "summary":  "# DeepThink A modular workflow framework for AI-powered information synthesis tasks. ## Overview Many AI agent use cases follow the same fundamental pattern: analyze data from various sources and prod...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "AmirhosseinHonardoust-Academic-Instability-Early-Warning-System",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Reasoning_And_Systems\\AmirhosseinHonardoust-Academic-Instability-Early-Warning-System",
+        "summary":  "# Academic Instability Early Warning System \u003cp align=\"center\"\u003e \u003c/p\u003e",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "AmirhosseinHonardoust-Pressure-Is-the-Only-Honest-Metric",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Reasoning_And_Systems\\AmirhosseinHonardoust-Pressure-Is-the-Only-Honest-Metric",
+        "summary":  "# **Most Signals Are Lies, Pressure Is the Only Honest Metric** \u003cp align=\"center\"\u003e \u003c/p\u003e ## Why dashboards comfort us, outcomes mislead us, and only pressure explains collapse",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "AmirhosseinHonardoust-The-Illusion-of-Sudden-Failure",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Reasoning_And_Systems\\AmirhosseinHonardoust-The-Illusion-of-Sudden-Failure",
+        "summary":  "# **The Illusion of Sudden Failure** \u003cp align=\"center\"\u003e \u003c/p\u003e ### *A Manifesto on Drift, Instability, and Why We Always Notice Too Late*",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "burkeholland-anvil",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Reasoning_And_Systems\\burkeholland-anvil",
+        "summary":  "No summary found.",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "dvdarkin-reasoning-tools",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Reasoning_And_Systems\\dvdarkin-reasoning-tools",
+        "summary":  "# Decision Under Uncertainty Reasoning tools for making choices with incomplete information. ## Domains in This Category 1. [Bayesian Statistics](bayesian-statistics.md) - Rigorous framework for updat...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "mulkatz-anvil",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Reasoning_And_Systems\\mulkatz-anvil",
+        "summary":  "\u003cp align=\"center\"\u003e \u003c/p\u003e \u003ch1 align=\"center\"\u003eAnvil\u003c/h1\u003e \u003cp align=\"center\"\u003eAdversarial thinking plugin for \u003ca href=\"https://docs.anthropic.com/en/docs/claude-code\"\u003eClaude Code\u003c/a\u003e. Stress-test ideas thro...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "RUCAIBox-Slow_Thinking_with_LLMs",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Reasoning_And_Systems\\RUCAIBox-Slow_Thinking_with_LLMs",
+        "summary":  "# Data Format Description This document introduces the format of the data, which is stored as a JSONL (JSON Lines) file. Each line is a dictionary containing the following three keys: - **question**: ...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "towardsai-ai-tutor-rag-system",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Reasoning_And_Systems\\towardsai-ai-tutor-rag-system",
+        "summary":  "# ðŸŒ MCP Lesson Python Scripts This repository contains Python scripts developed as part of lessons on the **Model Context Protocol (MCP)** â€” an open standard introduced by Anthropic to standardiz...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "yvgude-lean-ctx",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Reasoning_And_Systems\\yvgude-lean-ctx",
+        "summary":  "# LeanCTX Cookbook Praktische, echte Beispiele (ohne Mock-Daten), die gegen einen laufenden `lean-ctx serve` arbeiten. ## Voraussetzungen - Node.js **22+** - Ein laufender LeanCTX HTTP Server: ```bash...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "alphaSeclab-awesome-reverse-engineering",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Security_And_Forensics\\alphaSeclab-awesome-reverse-engineering",
+        "summary":  "# æ‰€æœ‰æ”¶é›†ç±»é¡¹ç›®: - [æ”¶é›†çš„æ‰€æœ‰å¼€æºå·¥å…·: sec-tool-list](https://github.com/alphaSeclab/sec-tool-list): è¶…è¿‡18K, åŒ…æ‹¬Markdownå’ŒJsonä¸¤ç§æ ¼å¼ - [å…¨å¹³å°é€†å‘èµ„æº: awesome-re...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "AmeeshaDS-github-analyzer-pro",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Security_And_Forensics\\AmeeshaDS-github-analyzer-pro",
+        "summary":  "# Launch Screen Assets You can customize the launch screen with your own desired assets by replacing the image files in this directory. You can also do it by opening your Flutter project\u0027s Xcode proje...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "AmrishJhaveri-Git-Repo-Analyzer",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Security_And_Forensics\\AmrishJhaveri-Git-Repo-Analyzer",
+        "summary":  "# Git-Repo-Analyzer Git-Repo-Analyzer automatically obtains fixes to the source code that developers performed to address bug/issue reports for software applications on Github. ## Getting Started ### ...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "ananyavrm04-Codebase-Analyzer",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Security_And_Forensics\\ananyavrm04-Codebase-Analyzer",
+        "summary":  "# Requests **Requests** is a simple, yet elegant, HTTP library. ```python \u003e\u003e\u003e import requests \u003e\u003e\u003e r = requests.get(\u0027https://httpbin.org/basic-auth/user/pass\u0027, auth=(\u0027user\u0027, \u0027pass\u0027)) \u003e\u003e\u003e r.status_code ...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "exc-analyzer-exc",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Security_And_Forensics\\exc-analyzer-exc",
+        "summary":  "# EXC Analyzer **EXC Analyzer** is a professional command-line tool for advanced GitHub repository intelligence, security auditing, and content analysis. Designed for security researchers, penetration...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "filiksyos-gitreverse",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Security_And_Forensics\\filiksyos-gitreverse",
+        "summary":  "# GitReverse https://github.com/user-attachments/assets/f0cdb7b2-c6f0-4483-8a01-153170479f2e Turn a **public GitHub repository** into a **single synthetic user prompt** that someone might paste into C...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "ossf-security-reviews",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Security_And_Forensics\\ossf-security-reviews",
+        "summary":  "# Security Reviews This repository contains a collection of security reviews of open source software. It is a public resource that anyone can contribute to, and is consumable by anyone under a permiss...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "xdevman1-git-repo-analyzer",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Security_And_Forensics\\xdevman1-git-repo-analyzer",
+        "summary":  "# Git Repo Analyzer A simple Node.js CLI tool that analyzes any public GitHub repository and returns structured JSON containing repository information, language statistics, commit data, and issue coun...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "24kchengYe-human-skill-tree",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Skills_And_Prompts\\24kchengYe-human-skill-tree",
+        "summary":  "\u003cdiv align=\"center\"\u003e # ðŸŒ³ Human Skill Tree App **[English](#highlights--socratic-tutor-system) Â· [ä¸­æ–‡](#äº®ç‚¹--è‹æ ¼æ‹‰åº•å¯¼å¸ˆç³»ç»Ÿ)** \u003c/div\u003e An interactive web application for the [Human S...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "claude-code-plugins-plus-skills-main",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Skills_And_Prompts\\claude-code-plugins-plus-skills-main",
+        "summary":  "",
+        "primary_lang":  "Python",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "claude-skills-main",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Skills_And_Prompts\\claude-skills-main",
+        "summary":  "# Claude Skills Slash Commands **Git workflow and quality assurance commands for the claude-skills repository.** ## ðŸŽ¯ Essential Commands ### Git Workflow /git:cm         â†’ Stage and commit (no pu...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "ComposioHQ-awesome-claude-skills",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Skills_And_Prompts\\ComposioHQ-awesome-claude-skills",
+        "summary":  "# Connect Apps Plugin Let Claude perform real actions in 500+ apps. Handles auth and connections using Composio under the hood. ## Install ```bash claude --plugin-dir ./connect-apps-plugin Then run th...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "metricrb-skilltree",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Skills_And_Prompts\\metricrb-skilltree",
+        "summary":  "# SkillTree A reusable, declarative skill tree system for Roblox games written in strict Luau. Fully typed, server-authoritative, and designed for multi-currency support and complex tree topologies. #...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "mufeedvh-code2prompt",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Skills_And_Prompts\\mufeedvh-code2prompt",
+        "summary":  "# code2prompt Python SDK Python bindings for [code2prompt](https://github.com/mufeedvh/code2prompt) - A tool to generate LLM prompts from codebases. ## Installation ### Local Development Installation ...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "NationalSecurityAgency-skills-service",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Skills_And_Prompts\\NationalSecurityAgency-skills-service",
+        "summary":  "# dashboard This template should help get you started developing with Vue 3 in Vite. ## Recommended IDE Setup [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/it...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "nikomatsakis-skill-tree",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Skills_And_Prompts\\nikomatsakis-skill-tree",
+        "summary":  "# skill-tree skill-tree fetches a GitHub Project and renders it as a directed dependency graph. ## What is a skill tree? A \"skill tree\" is a way to map out the roadmap for a project. The term is borro...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "Project-Skill-Tree-Skill-Tree-Data-Analytics",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Skills_And_Prompts\\Project-Skill-Tree-Skill-Tree-Data-Analytics",
+        "summary":  "# Skill-Tree-Data-Analytics A python program to compile useful insights from users\u0027 skill tree data. # Installation To install the necessary dependencies run the command pip install -r requirements.tx...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "Project-Skill-Tree-Skill-Tree-Discord-Bot",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Skills_And_Prompts\\Project-Skill-Tree-Skill-Tree-Discord-Bot",
+        "summary":  "# Skill-Tree-Discord-Bot The Skill Tree Discord Bot allows users to keep track of their self-improvement progress effortlessly through Discord. ## Tech - [DiscordJS](https://discord.js.org/#/) NodeJS ...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "Project-Skill-Tree-Skill-Tree-Docs",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Skills_And_Prompts\\Project-Skill-Tree-Skill-Tree-Docs",
+        "summary":  "No summary found.",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "Project-Skill-Tree-Skill-Tree-Editor",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Skills_And_Prompts\\Project-Skill-Tree-Skill-Tree-Editor",
+        "summary":  "# Skill-Tree-Editor The Skill Tree Editor allows people to easily edit their own skill trees to add any items, challenges and skills they need. This editor is used to instantiate the database which ot...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "Project-Skill-Tree-Skill-Tree-Mobile-Docs",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Skills_And_Prompts\\Project-Skill-Tree-Skill-Tree-Mobile-Docs",
+        "summary":  "No summary found.",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "Project-Skill-Tree-Skill-Tree-Website",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Skills_And_Prompts\\Project-Skill-Tree-Skill-Tree-Website",
+        "summary":  "",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "promptfoo-promptfoo",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Skills_And_Prompts\\promptfoo-promptfoo",
+        "summary":  "# Promptfoo Code Scan GitHub Action Automatically scan pull requests for LLM security vulnerabilities using AI-powered analysis. ## About Code Scanning Promptfoo Code Scanning uses AI agents to find L...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "sjpiper145-MakerSkillTree",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Skills_And_Prompts\\sjpiper145-MakerSkillTree",
+        "summary":  "# Skill Tree SVG Generator ## Overview This Python script generates SVG skill trees from YAML input files using a predefined SVG template. It is part of the MakerSkillTree project, which creates inter...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    },
+    {
+        "id":  "skills-main",
+        "local_path":  "C:\\Master  db\\R\u0026D workspace\\NEW\\research_repos\\_Skills_And_Prompts\\skills-main",
+        "summary":  "# Managed Agents â€” Go \u003e **Bindings not shown here:** This README covers the most common managed-agents flows for Go. If you need a class, method, namespace, field, or behavior that isn\u0027t shown, WebF...",
+        "primary_lang":  "Unknown",
+        "last_audit":  "2026-05-13 13:20"
+    }
+]

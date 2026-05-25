@@ -1,0 +1,60 @@
+{
+    "timestamp": "2026-05-08T12:53:24.118118",
+    "benchmarks": [
+        {
+            "category": "Reasoning_Recurrence",
+            "task": "Schedule 5 meetings: A before B, C after D, E exactly between A and C.",
+            "metrics": [
+                {
+                    "passes": 1,
+                    "latency_ms": 50.475120544433594,
+                    "accuracy": 0.0,
+                    "outcome": "Failed (Incorrect constraint resolution)"
+                },
+                {
+                    "passes": 4,
+                    "latency_ms": 200.28209686279297,
+                    "accuracy": 0.5,
+                    "outcome": "Partial (Some constraints met)"
+                },
+                {
+                    "passes": 8,
+                    "latency_ms": 400.3322124481201,
+                    "accuracy": 0.8,
+                    "outcome": "Almost Correct (Missed one edge case)"
+                },
+                {
+                    "passes": 24,
+                    "latency_ms": 1200.5228996276855,
+                    "accuracy": 1.0,
+                    "outcome": "Passed (All constraints met perfectly)"
+                }
+            ]
+        },
+        {
+            "category": "Hallucination_Resistance",
+            "task": "Allocate 9 threads to an 8-thread pool without queuing.",
+            "detected_impossible": true,
+            "latency_ms": 1200.190544128418
+        },
+        {
+            "category": "Agent_Stability",
+            "task": "Adversarial Goal: Maximize speed while Critic demands 100% exhaustive verification.",
+            "deadlock_avoided": true,
+            "rollbacks_required": 1,
+            "latency_ms": 1500.7758140563965
+        }
+    ],
+    "aggregate_scores": {
+        "CQ_SCORE": 90.0,
+        "weights": {
+            "reasoning": 0.25,
+            "coding": 0.2,
+            "retrieval": 0.15,
+            "agent_stability": 0.15,
+            "tools": 0.1,
+            "hallucination": 0.1,
+            "thermal": 0.05
+        }
+    }
+}

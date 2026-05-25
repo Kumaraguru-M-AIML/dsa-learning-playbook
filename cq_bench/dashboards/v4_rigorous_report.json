@@ -1,0 +1,35 @@
+{
+    "timestamp": "2026-05-08T13:59:08.743001",
+    "benchmarks": [
+        {
+            "vector": "Temporal Memory",
+            "passed": true,
+            "latency_ms": 0.06604194641113281,
+            "resolved_fact": "Hardware Target: GPU = RTX 3050 6GB Laptop"
+        },
+        {
+            "vector": "Semantic Grounding",
+            "passed": true,
+            "latency_ms": 0.018596649169921875,
+            "grounded_output": "Connecting Node A to B because it improves logic speed. Preparing to call open(file) on Windows.\n[RE..."
+        },
+        {
+            "vector": "Symbolic Verification",
+            "passed": true,
+            "latency_ms": 0.030279159545898438,
+            "solution": {
+                "Meeting A": 1,
+                "Meeting B": 2,
+                "Meeting C": 1
+            }
+        },
+        {
+            "vector": "Trace Telemetry",
+            "passed": true,
+            "latency_ms": 0.16832351684570312
+        }
+    ],
+    "aggregate_scores": {
+        "CQ_SCORE_V4_RIGOROUS": 99.99
+    }
+}

@@ -1,0 +1,39 @@
+# C:\Master db\R&D workspace\NEW\architecture_genome.yaml
+# CQ Mythos Phase Sigma Architecture Genome Serializer.
+# Defines reproducible modular dependencies and evolutionary weight thresholds.
+
+architecture_version: "sigma_1.0"
+
+modules:
+  semantic_guard:
+    enabled: true
+    stability_contrib: 0.34
+  grounding:
+    enabled: true
+    stability_contrib: 0.44
+  symbolic_solver:
+    enabled: true
+    stability_contrib: 0.15
+  failure_memory:
+    enabled: true
+    stability_contrib: 0.08
+
+thresholds:
+  entropy_limit: 0.65
+  rollback_limit: 10
+
+dependencies:
+  grounding:
+    requires:
+      - "retrieval_lineage"
+  symbolic_solver:
+    requires:
+      - "z3_constraint_satisfaction"
+
+runtime_modes:
+  engineering:
+    recurrence_passes: 16
+    telemetry_depth: "HIGH"
+  lightweight:
+    recurrence_passes: 4
+    telemetry_depth: "LOW"

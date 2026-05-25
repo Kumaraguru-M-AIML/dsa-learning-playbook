@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TCS NQT NEURAL KNOWLEDGE GRAPH</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #05060a;
+            --accent-orange: #ff9d00;
+            --accent-blue: #00d2ff;
+            --accent-red: #ff4d4d;
+            --accent-green: #00ff88;
+            --accent-purple: #b100ff;
+            --text-primary: #e0e0e0;
+            --card-glass: rgba(15, 17, 26, 0.85);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-primary);
+            font-family: 'Outfit', sans-serif;
+            overflow: hidden;
+            width: 100vw;
+            height: 100vh;
+        }
+
+        #graph-container {
+            width: 100%;
+            height: 100%;
+            cursor: grab;
+        }
+
+        #graph-container:active { cursor: grabbing; }
+
+        /* UI Overlays */
+        .overlay {
+            position: absolute;
+            pointer-events: none;
+            z-index: 10;
+        }
+
+        .header {
+            top: 40px;
+            left: 40px;
+            border-left: 2px solid var(--accent-orange);
+            padding-left: 20px;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-weight: 700;
+            background: linear-gradient(to right, #fff, #888);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .header p {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.9rem;
+            color: var(--accent-orange);
+            margin-top: 5px;
+        }
+
+        .info-panel {
+            bottom: 40px;
+            right: 40px;
+            width: 350px;
+            background: var(--card-glass);
+            backdrop-filter: blur(20px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 30px;
+            border-radius: 20px;
+            pointer-events: all;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
+            transition: all 0.3s ease;
+        }
+
+        .info-panel h2 {
+            font-size: 1.4rem;
+            margin-bottom: 15px;
+            color: #fff;
+        }
+
+        .info-panel p {
+            font-size: 0.95rem;
+            line-height: 1.6;
+            color: #a0a0a0;
+            margin-bottom: 15px;
+        }
+
+        .tag-group {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .tag {
+            padding: 4px 10px;
+            border-radius: 6px;
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .tag-priority { background: rgba(255, 157, 0, 0.15); color: var(--accent-orange); }
+        .tag-difficulty { background: rgba(0, 210, 255, 0.15); color: var(--accent-blue); }
+
+        .legend {
+            bottom: 40px;
+            left: 40px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-size: 0.8rem;
+            font-family: 'JetBrains Mono', monospace;
+            color: #888;
+        }
+
+        .dot { width: 10px; height: 10px; border-radius: 50%; }
+
+        /* Tooltip */
+        #tooltip {
+            position: absolute;
+            background: rgba(0, 0, 0, 0.9);
+            padding: 10px 15px;
+            border-radius: 8px;
+            font-size: 0.85rem;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.2s;
+            z-index: 100;
+        }
+
+        /* SVG Styles */
+        .node circle {
+            stroke: #fff;
+            stroke-width: 0px;
+            filter: drop-shadow(0 0 8px currentColor);
+            transition: r 0.3s ease;
+        }
+
+        .link {
+            stroke: rgba(255, 255, 255, 0.08);
+            stroke-opacity: 0.6;
+            stroke-width: 1.5;
+        }
+
+        .node text {
+            font-family: 'Outfit', sans-serif;
+            font-size: 14px;
+            fill: #fff;
+            pointer-events: none;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+        }
+
+        .node:hover circle {
+            stroke-width: 3px;
+        }
+    </style>
+</head>
+<body>
+
+    <svg id="graph-container"></svg>
+
+    <div class="overlay header">
+        <h1>NQT NEURAL MAP</h1>
+        <p>RE-CONNECTING THE FOUNDATION & ADVANCED PATHWAYS</p>
+    </div>
+
+    <div class="overlay legend">
+        <div class="legend-item"><div class="dot" style="background: var(--accent-orange);"></div> NUMERICAL CLUSTER</div>
+        <div class="legend-item"><div class="dot" style="background: var(--accent-blue);"></div> REASONING CLUSTER</div>
+        <div class="legend-item"><div class="dot" style="background: var(--accent-green);"></div> VERBAL CLUSTER</div>
+        <div class="legend-item"><div class="dot" style="background: var(--accent-purple);"></div> ADVANCED / CODING</div>
+        <div class="legend-item"><div class="dot" style="background: var(--accent-red);"></div> TIME TRAP ZONE</div>
+    </div>
+
+    <div class="overlay info-panel" id="info-panel">
+        <h2 id="panel-title">Tactical Intel</h2>
+        <p id="panel-desc">Hover over a node to extract detailed sub-topic analysis, weightage, and execution strategy.</p>
+        <div class="tag-group" id="panel-tags"></div>
+    </div>
+
+    <div id="tooltip"></div>
+
+    <script>
+        const data = {
+            nodes: [
+                { id: "ROOT", group: "master", label: "TCS NQT", size: 50 },
+                
+                // FOUNDATION
+                { id: "FOUNDATION", group: "submaster", label: "FOUNDATION (R1)", size: 40 },
+                { id: "ADVANCED", group: "submaster", label: "ADVANCED (R2)", size: 40 },
+
+                // NUMERICAL
+                { id: "NUMERICAL", group: "numerical", label: "Numerical Ability", size: 30 },
+                { id: "ARITHMETIC", group: "numerical", label: "Arithmetic (70%)", size: 25, desc: "The core marks engine. Master fractional shortcuts.", priority: "CRITICAL", diff: "MEDIUM" },
+                { id: "P_LOSS", group: "numerical", label: "Profit & Loss", size: 15, desc: "Focus on weight loss & raisins vs grapes.", priority: "CRITICAL" },
+                { id: "PERCENT", group: "numerical", label: "Percentages", size: 15, desc: "Universal tool for DI and Quant.", priority: "CRITICAL" },
+                { id: "RATIO", group: "numerical", label: "Ratio & Mixtures", size: 15, desc: "Alligation method is king here." },
+                { id: "TIME_WORK", group: "numerical", label: "Time & Work", size: 20, desc: "LCM/Units method. Look for alternate days." },
+                { id: "STATS", group: "trap", label: "Statistics", size: 15, desc: "Variance & SD. Easy but calculation heavy.", priority: "TIME BOMB" },
+
+                // REASONING
+                { id: "REASONING", group: "reasoning", label: "Reasoning Ability", size: 30 },
+                { id: "LOGIC", group: "reasoning", label: "Logical Deductions", size: 25, desc: "High yield, fast solve categories." },
+                { id: "CODING", group: "reasoning", label: "Coding-Decoding", size: 15, desc: "Numerical mapping strategy required." },
+                { id: "BLOOD", group: "reasoning", label: "Blood Relations", size: 15, desc: "Generation tree method." },
+                { id: "SYLLOGISM", group: "reasoning", label: "Syllogisms", size: 18, desc: "Venn Diagram intersection rules.", priority: "HIGH YIELD" },
+                { id: "SEATING", group: "trap", label: "Seating Arrangement", size: 25, desc: "The biggest time trap in NQT. Save for last.", priority: "CRITICAL TRAP", diff: "HARD" },
+
+                // VERBAL
+                { id: "VERBAL", group: "verbal", label: "Verbal Ability", size: 30 },
+                { id: "GRAMMAR", group: "verbal", label: "Grammar Core", size: 20, desc: "Error Identification & Tenses." },
+                { id: "PARAJUMBLE", group: "verbal", label: "Para-Jumbles", size: 15, desc: "Pronoun-Antecedent tracking." },
+
+                // ADVANCED
+                { id: "ADV_QUANT", group: "advanced", label: "Advanced Quant", size: 25 },
+                { id: "PC_PROB", group: "advanced", label: "P&C / Probability", size: 20, desc: "Hardest math cluster. High Digital weightage.", priority: "DIGITAL GATE" },
+                { id: "LOGS", group: "advanced", label: "Logarithms", size: 15, desc: "Base conversion rules." },
+                
+                // CODING
+                { id: "CODING_R", group: "advanced", label: "Coding Round", size: 30 },
+                { id: "STRINGS", group: "advanced", label: "Strings", size: 20, desc: "90% of TCS Coding questions. Palindromes, Rotations.", priority: "CRITICAL" },
+                { id: "ARRAYS", group: "advanced", label: "Arrays/Matrix", size: 20, desc: "Sliding window & Prefix sums.", priority: "CRITICAL" },
+                { id: "MATH_ALG", group: "advanced", label: "Math Algs", size: 15, desc: "Prime Sieve, Fibonacci, GCD." }
+            ],
+            links: [
+                { source: "ROOT", target: "FOUNDATION" },
+                { source: "ROOT", target: "ADVANCED" },
+                
+                { source: "FOUNDATION", target: "NUMERICAL" },
+                { source: "FOUNDATION", target: "REASONING" },
+                { source: "FOUNDATION", target: "VERBAL" },
+
+                { source: "NUMERICAL", target: "ARITHMETIC" },
+                { source: "ARITHMETIC", target: "P_LOSS" },
+                { source: "ARITHMETIC", target: "PERCENT" },
+                { source: "ARITHMETIC", target: "RATIO" },
+                { source: "NUMERICAL", target: "TIME_WORK" },
+                { source: "NUMERICAL", target: "STATS" },
+
+                { source: "REASONING", target: "LOGIC" },
+                { source: "LOGIC", target: "CODING" },
+                { source: "LOGIC", target: "BLOOD" },
+                { source: "REASONING", target: "SYLLOGISM" },
+                { source: "REASONING", target: "SEATING" },
+
+                { source: "VERBAL", target: "GRAMMAR" },
+                { source: "VERBAL", target: "PARAJUMBLE" },
+
+                { source: "ADVANCED", target: "ADV_QUANT" },
+                { source: "ADV_QUANT", target: "PC_PROB" },
+                { source: "ADV_QUANT", target: "LOGS" },
+                
+                { source: "ADVANCED", target: "CODING_R" },
+                { source: "CODING_R", target: "STRINGS" },
+                { source: "CODING_R", target: "ARRAYS" },
+                { source: "CODING_R", target: "MATH_ALG" },
+
+                // Neural Links (Inter-dependencies)
+                { source: "RATIO", target: "PC_PROB" },
+                { source: "PERCENT", target: "STATS" },
+                { source: "CODING", target: "STRINGS" },
+                { source: "MATH_ALG", target: "ARITHMETIC" }
+            ]
+        };
+
+        const width = window.innerWidth;
+        const height = window.innerHeight;
+
+        const svg = d3.select("#graph-container")
+            .attr("viewBox", [0, 0, width, height]);
+
+        const g = svg.append("g");
+
+        // Zoom setup
+        svg.call(d3.zoom()
+            .scaleExtent([0.5, 4])
+            .on("zoom", (e) => g.attr("transform", e.transform)));
+
+        const simulation = d3.forceSimulation(data.nodes)
+            .force("link", d3.forceLink(data.links).id(d => d.id).distance(120))
+            .force("charge", d3.forceManyBody().strength(-800))
+            .force("center", d3.forceCenter(width / 2, height / 2))
+            .force("collision", d3.forceCollide().radius(80));
+
+        const link = g.append("g")
+            .selectAll("line")
+            .data(data.links)
+            .join("line")
+            .attr("class", "link");
+
+        const node = g.append("g")
+            .selectAll(".node")
+            .data(data.nodes)
+            .join("g")
+            .attr("class", "node")
+            .call(d3.drag()
+                .on("start", dragstarted)
+                .on("drag", dragged)
+                .on("end", dragended))
+            .on("mouseover", handleMouseOver)
+            .on("mouseout", handleMouseOut);
+
+        const colorMap = {
+            master: "#ffffff",
+            submaster: "#888888",
+            numerical: "#ff9d00",
+            reasoning: "#00d2ff",
+            verbal: "#00ff88",
+            advanced: "#b100ff",
+            trap: "#ff4d4d"
+        };
+
+        node.append("circle")
+            .attr("r", d => d.size)
+            .attr("fill", d => colorMap[d.group])
+            .style("color", d => colorMap[d.group]);
+
+        node.append("text")
+            .attr("dy", d => d.size + 20)
+            .attr("text-anchor", "middle")
+            .text(d => d.label);
+
+        simulation.on("tick", () => {
+            link
+                .attr("x1", d => d.source.x)
+                .attr("y1", d => d.source.y)
+                .attr("x2", d => d.target.x)
+                .attr("y2", d => d.target.y);
+
+            node
+                .attr("transform", d => `translate(${d.x},${d.y})`);
+        });
+
+        function handleMouseOver(event, d) {
+            d3.select(this).select("circle").transition().attr("r", d.size * 1.2);
+            
+            const tooltip = d3.select("#tooltip");
+            tooltip.style("opacity", 1)
+                .html(`<strong>${d.label}</strong><br>${d.group.toUpperCase()}`)
+                .style("left", (event.pageX + 15) + "px")
+                .style("top", (event.pageY - 15) + "px");
+
+            // Update Panel
+            if (d.desc) {
+                document.getElementById("panel-title").innerText = d.label;
+                document.getElementById("panel-desc").innerText = d.desc;
+                
+                const tagGroup = document.getElementById("panel-tags");
+                tagGroup.innerHTML = '';
+                if (d.priority) tagGroup.innerHTML += `<span class="tag tag-priority">${d.priority}</span>`;
+                if (d.diff) tagGroup.innerHTML += `<span class="tag tag-difficulty">${d.diff}</span>`;
+                
+                document.getElementById("info-panel").style.borderColor = colorMap[d.group];
+            }
+        }
+
+        function handleMouseOut(event, d) {
+            d3.select(this).select("circle").transition().attr("r", d.size);
+            d3.select("#tooltip").style("opacity", 0);
+        }
+
+        function dragstarted(event) {
+            if (!event.active) simulation.alphaTarget(0.3).restart();
+            event.subject.fx = event.subject.x;
+            event.subject.fy = event.subject.y;
+        }
+
+        function dragged(event) {
+            event.subject.fx = event.x;
+            event.subject.fy = event.y;
+        }
+
+        function dragended(event) {
+            if (!event.active) simulation.alphaTarget(0);
+            event.subject.fx = null;
+            event.subject.fy = null;
+        }
+
+        window.addEventListener('resize', () => {
+            const width = window.innerWidth;
+            const height = window.innerHeight;
+            svg.attr("viewBox", [0, 0, width, height]);
+            simulation.force("center", d3.forceCenter(width / 2, height / 2)).alpha(0.3).restart();
+        });
+    </script>
+</body>
+</html>
